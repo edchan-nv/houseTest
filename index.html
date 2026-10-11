@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#eeeae2"><meta name="description" content="Explore a photo-guided architectural study of 1172 Millbrae Avenue. OVRTX-rendered room views, dollhouse perspectives, and removable staging."><title>1172 Millbrae Avenue — House Study</title><link rel="stylesheet" href="style.css"></head>
+<body>
+<header><a class="brand" href="./" aria-label="House Study home"><span class="mark">⌂</span> HOUSE STUDY <span class="edition">№ 1172</span></a><nav class="header-links" aria-label="Help and source"><a class="help-link" href="#guide">How to use</a><a class="listing" href="https://www.redfin.com/CA/Millbrae/1172-Millbrae-Ave-94030/home/665972" target="_blank" rel="noreferrer">Original listing <span>↗</span></a></nav></header>
+<main>
+<section class="intro"><div><p class="eyebrow">MILLBRAE, CALIFORNIA · HIGHLANDS</p><h1>1172 Millbrae Avenue</h1><p class="subtitle">Explore the spaces. Make room for your imagination.</p></div><div class="facts"><span><b>4</b> bedrooms</span><span><b>2.5</b> baths</span><span><b>3,010</b> sq ft</span></div></section>
+<section class="workspace" aria-label="Interactive architectural tour">
+<div class="viewer-column">
+ <div class="view-tabs" role="group" aria-label="Tour mode"><button class="active" data-mode="rooms">Room tour</button><button data-mode="mainplan">Main level</button><button data-mode="lowerplan">Lower level</button><button data-mode="exterior">Exterior</button></div>
+ <div class="viewport" id="viewport" aria-busy="true"><img id="render" draggable="false" alt="Loading architectural view" decoding="async"><div class="image-label"><span id="view-number">01 / 11</span><h2 id="view-name">Living room</h2><span id="view-level">MAIN LEVEL</span></div><span class="state-badge" id="state-badge">Furnished</span><div id="loading" role="status">Loading view…</div><div id="error" role="alert" hidden><strong>This view could not load.</strong><button id="retry">Try again</button></div><button class="expand" id="fullscreen" aria-label="Expand view">⛶</button><div class="orbit-controls" id="orbit-controls" hidden><button id="orbit-prev" aria-label="Rotate view left">←</button><span id="orbit-label">Drag to rotate</span><button id="orbit-next" aria-label="Rotate view right">→</button></div></div>
+ <div class="under-view"><span><i></i> OVRTX-rendered architectural study</span><span id="view-hint">Choose a room below</span></div>
+ <nav id="room-strip" class="room-strip" aria-label="Rooms"></nav>
+</div>
+<aside>
+ <div class="panel-title"><span class="eyebrow">YOUR PERSPECTIVE</span><span class="small-number">01</span></div><h3>A little less.<br> A little more you.</h3><p class="panel-copy">Peel back the staging to see the space underneath.</p>
+ <div class="segmented" role="group" aria-label="Furniture preset"><button id="furnished" class="active">Furnished</button><button id="empty">Empty</button></div>
+ <div class="category-title">STAGING LAYERS <button id="reset">Reset</button></div><div id="layers"></div>
+ <p class="layer-note" id="layer-note">Switch furniture groups on or off. Walls, built-ins, and fixtures stay in place.</p>
+ <div class="room-detail"><span class="eyebrow">ABOUT THIS VIEW</span><p id="room-description"></p></div>
+ <details class="accuracy"><summary>About this reconstruction <span>+</span></summary><p>Modeled from the listing’s floor plan and photographs. Room proportions follow the plan; heights, construction details, terrain, and furniture shapes are approximate. This is an architectural visualization, not a measured survey.</p><p>Views are rendered ahead of time with NVIDIA OVRTX. Room viewpoints are fixed; the house and floor views rotate in 15° steps.</p><a href="downloads/house-usd.zip" download>Download editable OpenUSD model ↗</a></details>
+</aside>
+</section>
+<section class="guide" id="guide" aria-labelledby="guide-title">
+<div class="guide-heading"><div><p class="eyebrow">A QUICK GUIDE</p><h2 id="guide-title">How to use this tour</h2></div><a class="download-link" href="downloads/house-usd.zip" download>Download the editable model ↗</a></div>
+<div class="guide-grid">
+<article><span class="step">01</span><h3>Choose your view</h3><p>Select <strong>Room tour</strong>, then tap a room thumbnail below the image. Use <strong>Main level</strong> or <strong>Lower level</strong> to see the floor layout, or <strong>Exterior</strong> to see the house.</p></article>
+<article><span class="step">02</span><h3>Remove the staging</h3><p>Choose <strong>Empty</strong> to hide all staging, or <strong>Furnished</strong> to restore it. In room views, toggle seating, tables, beds, and decor separately. <strong>Reset</strong> restores all groups. Walls and built-ins stay in place.</p></article>
+<article><span class="step">03</span><h3>Turn and compare</h3><p>In exterior and floor views, <strong>swipe or drag left and right</strong>, use the arrow buttons, or press your keyboard’s left/right arrows. Each step turns 15°. Room viewpoints are fixed. Tap ⛶ to expand where supported.</p></article>
+<article><span class="step">04</span><h3>Take the model with you</h3><p>Download and unzip the model. Open <strong>house.usda</strong> in a USD-compatible app or <strong>house.blend</strong> in Blender. The furnishing variant hides all staging; individual items are listed in <strong>furniture-prims.json</strong>.</p></article>
+</div><p class="guide-footnote">These are pre-rendered views of an approximate, photo-guided model. You can switch views and staging here; moving individual furniture items or navigating freely requires the editable model. Copy your browser’s URL to share the current view.</p>
+</section>
+<footer><span>A HOME, IN PERSPECTIVE.</span><p>Photo-guided model · Independent study · Not affiliated with Redfin or the listing agent.</p></footer>
+</main><script type="module" src="app.js"></script>
+</body></html>
