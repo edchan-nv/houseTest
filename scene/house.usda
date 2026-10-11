@@ -1,0 +1,312 @@
+#usda 1.0
+(
+    defaultPrim = "World"
+    doc = "1172 Millbrae Ave. Photo/floor-plan-guided approximation, not a measured survey. See provenance.json."
+    metersPerUnit = 1
+    subLayers = [
+        @house.usdc@
+    ]
+    upAxis = "Z"
+)
+
+over "World"
+{
+    over "House" (
+        variants = {
+            string furnishing = "furnished"
+        }
+        prepend variantSets = "furnishing"
+    )
+    {
+        over "Lighting"
+        {
+            over "LowerSoftFill_004"
+            {
+                over "LowerSoftFill_004"
+                {
+                    float inputs:intensity = 18000
+                }
+            }
+
+            over "LowerSoftFill"
+            {
+                over "LowerSoftFill"
+                {
+                    float inputs:intensity = 18000
+                }
+            }
+
+            over "MainSoftFill_001"
+            {
+                over "MainSoftFill_001"
+                {
+                    float inputs:intensity = 18000
+                }
+            }
+
+            over "LowerSoftFill_007"
+            {
+                over "LowerSoftFill_007"
+                {
+                    float inputs:intensity = 18000
+                }
+            }
+
+            over "LowerSoftFill_001"
+            {
+                over "LowerSoftFill_001"
+                {
+                    float inputs:intensity = 18000
+                }
+            }
+
+            over "Sun"
+            {
+                over "Sun"
+                {
+                    float inputs:intensity = 2500
+                }
+            }
+
+            over "LowerSoftFill_006"
+            {
+                over "LowerSoftFill_006"
+                {
+                    float inputs:intensity = 18000
+                }
+            }
+
+            over "LowerSoftFill_002"
+            {
+                over "LowerSoftFill_002"
+                {
+                    float inputs:intensity = 18000
+                }
+            }
+
+            over "MainSoftFill_003"
+            {
+                over "MainSoftFill_003"
+                {
+                    float inputs:intensity = 18000
+                }
+            }
+
+            over "MainSoftFill_002"
+            {
+                over "MainSoftFill_002"
+                {
+                    float inputs:intensity = 18000
+                }
+            }
+
+            over "LowerSoftFill_003"
+            {
+                over "LowerSoftFill_003"
+                {
+                    float inputs:intensity = 18000
+                }
+            }
+
+            over "MainSoftFill"
+            {
+                over "MainSoftFill"
+                {
+                    float inputs:intensity = 18000
+                }
+            }
+
+            over "LowerSoftFill_005"
+            {
+                over "LowerSoftFill_005"
+                {
+                    float inputs:intensity = 18000
+                }
+            }
+
+            over "MainSoftFill_004"
+            {
+                over "MainSoftFill_004"
+                {
+                    float inputs:intensity = 18000
+                }
+            }
+
+            over "MainSoftFill_005"
+            {
+                over "MainSoftFill_005"
+                {
+                    float inputs:intensity = 18000
+                }
+            }
+
+            over "MainSoftFill_006"
+            {
+                over "MainSoftFill_006"
+                {
+                    float inputs:intensity = 18000
+                }
+            }
+
+            over "MainSoftFill_007"
+            {
+                over "MainSoftFill_007"
+                {
+                    float inputs:intensity = 18000
+                }
+            }
+        }
+        variantSet "furnishing" = {
+            "empty" {
+                over "Staging"
+                {
+                    token visibility = "invisible"
+                }
+
+            }
+            "furnished" {
+                over "Staging"
+                {
+                    token visibility = "inherited"
+                }
+
+            }
+        }
+    }
+
+    def DomeLight "PresentationSky"
+    {
+        color3f inputs:color = (0.72, 0.83, 1)
+        float inputs:intensity = 1800
+    }
+
+    def "ReviewCameras"
+    {
+        def Camera "living"
+        {
+            float focalLength = 20.5
+            float horizontalAperture = 36
+            float verticalAperture = 22.5
+            matrix4d xformOp:transform = ( (0.8585432690668223, 0.5127411190260189, -3.469446951953614e-18, 0), (-0.030515980183227303, 0.05109652495796199, 0.9982273889704076, -0), (0.5118322284631078, -0.8570214057986922, 0.05951537540268695, 0), (8.150000000000002, 2.9, 4.650000000000002, 1.0000000000000002) )
+            uniform token[] xformOpOrder = ["xformOp:transform"]
+        }
+
+        def Camera "dining"
+        {
+            float focalLength = 20.5
+            float horizontalAperture = 36
+            float verticalAperture = 22.5
+            matrix4d xformOp:transform = ( (0.9756854049834024, 0.2191757069165614, 0, 0), (-0.010834027925746677, 0.04822889850816263, 0.9987775514035114, -0), (0.21890777588125676, -0.9744926797294657, 0.04943078810221935, 0), (3.9, 6.9, 4.7, 1) )
+            uniform token[] xformOpOrder = ["xformOp:transform"]
+        }
+
+        def Camera "kitchen"
+        {
+            float focalLength = 20.5
+            float horizontalAperture = 36
+            float verticalAperture = 22.5
+            matrix4d xformOp:transform = ( (0.8899332505568759, -0.45609079091039884, 0, 0), (0.04042925569373744, 0.07888635257314625, 0.996063461161866, 0), (-0.4542953717982647, -0.8864299937527117, 0.08864299937527124, 0), (1.05, 11.000000000000002, 4.700000000000001, 1) )
+            uniform token[] xformOpOrder = ["xformOp:transform"]
+        }
+
+        def Camera "primary"
+        {
+            float focalLength = 20.5
+            float horizontalAperture = 36
+            float verticalAperture = 22.5
+            matrix4d xformOp:transform = ( (0.9133018860762493, 0.40728327352048954, 0, 0), (-0.06934563707833938, 0.15550233769082164, 0.9853985009075715, -0), (0.40133632717181883, -0.8999663094155937, 0.17026389637592312, 0), (11.150000000000004, 11.100000000000001, 4.7, 1) )
+            uniform token[] xformOpOrder = ["xformOp:transform"]
+        }
+
+        def Camera "guest"
+        {
+            float focalLength = 20.5
+            float horizontalAperture = 36
+            float verticalAperture = 22.5
+            matrix4d xformOp:transform = ( (0.847998304005088, 0.5299989400031799, 0, 0), (-0.14416403666684074, 0.23066245866694518, 0.9622949447511616, -0), (0.5100153006885344, -0.816024481101655, 0.2720081603672184, 0), (4, 0.6000000000000008, 4.650000000000001, 1) )
+            uniform token[] xformOpOrder = ["xformOp:transform"]
+        }
+
+        def Camera "recreation"
+        {
+            float focalLength = 20.5
+            float horizontalAperture = 36
+            float verticalAperture = 22.5
+            matrix4d xformOp:transform = ( (0.925168618374746, 0.379556356256306, 0, 0), (-0.04910546654062451, 0.11969457469277224, 0.9915956141214745, -0), (0.3763664181756809, -0.9173931443032222, 0.1293759562478903, 0), (3.6000000000000005, 10.100000000000001, 1.5999999999999999, 1) )
+            uniform token[] xformOpOrder = ["xformOp:transform"]
+        }
+
+        def Camera "family"
+        {
+            float focalLength = 20.5
+            float horizontalAperture = 36
+            float verticalAperture = 22.5
+            matrix4d xformOp:transform = ( (0.8589469742085634, 0.5120645423166434, 0, 0), (-0.10750830194332978, 0.1803365064855855, 0.9777119767302822, -0), (0.5006516358818927, -0.8398027440599491, 0.2099506860149873, 0), (3.8, 0.40000000000000024, 1.6500000000000001, 0.9999999999999998) )
+            uniform token[] xformOpOrder = ["xformOp:transform"]
+        }
+
+        def Camera "twins"
+        {
+            float focalLength = 20.5
+            float horizontalAperture = 36
+            float verticalAperture = 22.5
+            matrix4d xformOp:transform = ( (0.7167259309091052, 0.6973549598034537, 2.775557561562892e-17, 0), (-0.20644677276828752, 0.21218140534518437, 0.9551747385893861, -0), (0.6660958414342757, -0.6845985036963389, 0.2960425961930113, 0), (8.150000000000002, 4.8500000000000005, 1.6500000000000004, 1) )
+            uniform token[] xformOpOrder = ["xformOp:transform"]
+        }
+
+        def Camera "lowerguest"
+        {
+            float focalLength = 20.5
+            float horizontalAperture = 36
+            float verticalAperture = 22.5
+            matrix4d xformOp:transform = ( (0.8125382506296855, 0.5829078754517307, 1.3877787807814457e-17, 0), (-0.15853279115736654, 0.22098510282542008, 0.9623060523851512, -0), (0.5609357765301703, -0.7819104763753894, 0.2719688613479615, 0), (8.100000000000001, 0.5500000000000003, 1.6500000000000001, 1.0000000000000002) )
+            uniform token[] xformOpOrder = ["xformOp:transform"]
+        }
+
+        def Camera "terrace"
+        {
+            float focalLength = 20.5
+            float horizontalAperture = 36
+            float verticalAperture = 22.5
+            matrix4d xformOp:transform = ( (0.9520285612852645, -0.3060091804131208, 3.469446951953616e-18, 0), (0.026946932515120675, 0.0838349011581532, 0.9961152404093759, 0), (-0.3048204083146918, -0.9483301592012632, 0.08805922906868867, 0), (-4.65, 6.7, 4.8, 1) )
+            uniform token[] xformOpOrder = ["xformOp:transform"]
+        }
+
+        def Camera "balcony"
+        {
+            float focalLength = 20.5
+            float horizontalAperture = 36
+            float verticalAperture = 22.5
+            matrix4d xformOp:transform = ( (0.8696859152361965, 0.49360551945838177, 0, 0), (-0.08013797284925503, 0.141195475972497, 0.9867328629738203, -0), (0.48705678739484887, -0.8581476730290196, 0.16235226246494971, 0), (11.200000000000001, 3.700000000000001, 4.700000000000001, 1) )
+            uniform token[] xformOpOrder = ["xformOp:transform"]
+        }
+
+        def Camera "exterior"
+        {
+            float focalLength = 27
+            float horizontalAperture = 36
+            float verticalAperture = 22.5
+            matrix4d xformOp:transform = ( (0.7840458244617613, 0.6207029443655612, 0, 0), (-0.14956784660141254, 0.18892780623336317, 0.970533741450994, -0), (0.6024131509247563, -0.7609429274839026, 0.24096526036990246, 0), (24, -16, 11.000000000000002, 1) )
+            uniform token[] xformOpOrder = ["xformOp:transform"]
+        }
+
+        def Camera "mainplan"
+        {
+            float focalLength = 37
+            float horizontalAperture = 36
+            float verticalAperture = 22.5
+            matrix4d xformOp:transform = ( (0.777063878480823, 0.6294217415694666, -2.7755575615628914e-17, 0), (-0.44646324161841733, 0.5511891871832313, 0.7048837165205786, -0), (0.4436691364563409, -0.5477396746374579, 0.7093228786555079, 0), (22, -11.999999999999998, 28.999999999999996, 0.9999999999999999) )
+            uniform token[] xformOpOrder = ["xformOp:transform"]
+        }
+
+        def Camera "lowerplan"
+        {
+            float focalLength = 37
+            float horizontalAperture = 36
+            float verticalAperture = 22.5
+            matrix4d xformOp:transform = ( (0.777063878480823, 0.6294217415694667, 0, 0), (-0.447317237983115, 0.552243503682858, 0.703515743422447, -0), (0.4428081044464947, -0.5466766721561663, 0.7106796738030162, 0), (22, -11.999999999999998, 25.999999999999996, 0.9999999999999999) )
+            uniform token[] xformOpOrder = ["xformOp:transform"]
+        }
+    }
+}
+

@@ -1,0 +1,9 @@
+{
+  "stage_opens": true,
+  "metres_per_unit": 1.0,
+  "up_axis": "Z",
+  "furniture_items": 74,
+  "furnishing_variants_verified": true,
+  "architecture_remains_visible": true,
+  "zip_sha256": "26bd2847b001e21034cb6b13851675afa2f4f15672722259e26e68cd18dc8d5f"
+}

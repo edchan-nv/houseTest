@@ -1,0 +1,70 @@
+{
+  "engine": "OVRTX",
+  "version": "(0, 5, 0)",
+  "mode": "PathTracing",
+  "samples": 48,
+  "frames": [
+    {
+      "file": "living-15.webp",
+      "seconds": 0.673,
+      "std": 61.25270104000039,
+      "sha256": "bd49b7db4ef95a876d1944475766bc73a380ff5f4ba5265386aeb5268cd96d07"
+    },
+    {
+      "file": "living-00.webp",
+      "seconds": 0.461,
+      "std": 54.03161559307001,
+      "sha256": "da8a57c137b81bcf22f025db7243b80a8f4e4be8aee317656c92560f1f207f0c"
+    },
+    {
+      "file": "kitchen-15.webp",
+      "seconds": 0.458,
+      "std": 50.67817063028455,
+      "sha256": "2f3ec35f123262846caf63fd0ad90aa28a9b8803da272a7d66f8bff418967efa"
+    },
+    {
+      "file": "kitchen-00.webp",
+      "seconds": 0.442,
+      "std": 48.79480030580215,
+      "sha256": "2ad2e80adc65f6f306df7588d4ffde4707daddac221160f23d41f87cd27ef3dd"
+    },
+    {
+      "file": "primary-15.webp",
+      "seconds": 0.472,
+      "std": 56.362319100024976,
+      "sha256": "f815e2edefeee53768f8687abb3ff78df72566613f198d4a66f2daa267ee5025"
+    },
+    {
+      "file": "primary-00.webp",
+      "seconds": 0.452,
+      "std": 50.151357731644836,
+      "sha256": "52862fc7ee6ecd225bd99fd05319dbb602bf43a59ac10cf91b3f928e83d809b5"
+    },
+    {
+      "file": "exterior-15.webp",
+      "seconds": 0.315,
+      "std": 37.35479849432532,
+      "sha256": "56c882a0fd8cefd9c89a4a0ee8d2af5cfefff0d09f6d9916cd08a261c7ad7afb"
+    },
+    {
+      "file": "exterior-00.webp",
+      "seconds": 0.304,
+      "std": 37.205694097481604,
+      "sha256": "7030f8580656b2b4ee90ed2085311c841507a77e82405c48b5688a6d014fa046"
+    },
+    {
+      "file": "mainplan-15.webp",
+      "seconds": 0.255,
+      "std": 18.763084226461313,
+      "sha256": "faa96d9146e9a6256dd43d8635c8d5e95eb3bf116f9389fd98a42da8b004a0b9"
+    },
+    {
+      "file": "mainplan-00.webp",
+      "seconds": 0.254,
+      "std": 18.508430762242284,
+      "sha256": "03b26bc9d76a8a22beb32c787c7879ddc78091e5ae2763320edb85c3027106e8"
+    }
+  ],
+  "asset_unchanged": true,
+  "seconds": 4.436380014754832
+}

@@ -1,0 +1,16 @@
+sources/
+evidence/*.log
+scene/*.blend1
+node_modules/
+__pycache__/
+.runtime/
+
+scripts/auth_gitlab.py
+scripts/deploy_gitlab.py
+.openai/
+
+evidence/reference-comparison.jpg
+evidence/desktop-first.png
+evidence/mobile-first.png
+evidence/smoke/
+scene/smoke*

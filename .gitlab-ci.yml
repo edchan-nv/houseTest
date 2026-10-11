@@ -1,0 +1,11 @@
+image: python:3.12-slim
+stages: [deploy]
+pages:
+  stage: deploy
+  script:
+    - python scripts/validate_site.py
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'

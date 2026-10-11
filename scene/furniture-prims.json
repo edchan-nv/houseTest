@@ -1,0 +1,520 @@
+[
+  {
+    "path": "/World/House/Staging/Main_001/Living/seating/LivingSofa",
+    "name": "LivingSofa",
+    "room": "Living",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Living/seating/Ottoman",
+    "name": "Ottoman",
+    "room": "Living",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Living/seating/LoungeChair",
+    "name": "LoungeChair",
+    "room": "Living",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Living/tables/CoffeeTable",
+    "name": "CoffeeTable",
+    "room": "Living",
+    "category": "tables",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Living/decor/LivingRug",
+    "name": "LivingRug",
+    "room": "Living",
+    "category": "decor",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Living/decor/LivingArtwork",
+    "name": "LivingArtwork",
+    "room": "Living",
+    "category": "decor",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Living/decor/LivingTree",
+    "name": "LivingTree",
+    "room": "Living",
+    "category": "decor",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Guest/beds_001/GuestBed",
+    "name": "GuestBed",
+    "room": "Guest",
+    "category": "beds",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Guest/decor_003/GuestRug",
+    "name": "GuestRug",
+    "room": "Guest",
+    "category": "decor",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Guest/decor_003/GuestPlant",
+    "name": "GuestPlant",
+    "room": "Guest",
+    "category": "decor",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Guest/decor_003/GuestArt",
+    "name": "GuestArt",
+    "room": "Guest",
+    "category": "decor",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Guest/tables_003/GuestBedNightstand",
+    "name": "GuestBedNightstand",
+    "room": "Guest",
+    "category": "tables",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Guest/tables_003/GuestBedNightstand_001",
+    "name": "GuestBedNightstand_001",
+    "room": "Guest",
+    "category": "tables",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Primary/beds/PrimaryBed",
+    "name": "PrimaryBed",
+    "room": "Primary",
+    "category": "beds",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Primary/decor_002/TableLamp_001",
+    "name": "TableLamp_001",
+    "room": "Primary",
+    "category": "decor",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Primary/decor_002/PrimaryPlant",
+    "name": "PrimaryPlant",
+    "room": "Primary",
+    "category": "decor",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Primary/decor_002/TableLamp",
+    "name": "TableLamp",
+    "room": "Primary",
+    "category": "decor",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Primary/decor_002/PrimaryRug",
+    "name": "PrimaryRug",
+    "room": "Primary",
+    "category": "decor",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Primary/decor_002/PrimaryArtwork",
+    "name": "PrimaryArtwork",
+    "room": "Primary",
+    "category": "decor",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Primary/seating_003/PrimaryDeskChair",
+    "name": "PrimaryDeskChair",
+    "room": "Primary",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Primary/tables_002/PrimaryBedNightstand",
+    "name": "PrimaryBedNightstand",
+    "room": "Primary",
+    "category": "tables",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Primary/tables_002/PrimaryBedNightstand_001",
+    "name": "PrimaryBedNightstand_001",
+    "room": "Primary",
+    "category": "tables",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Primary/tables_002/PrimaryDesk",
+    "name": "PrimaryDesk",
+    "room": "Primary",
+    "category": "tables",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Kitchen/seating_001/IslandStool",
+    "name": "IslandStool",
+    "room": "Kitchen",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Kitchen/seating_001/IslandStool_001",
+    "name": "IslandStool_001",
+    "room": "Kitchen",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Dining/tables_001/DiningTable",
+    "name": "DiningTable",
+    "room": "Dining",
+    "category": "tables",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Dining/decor_001/DiningRug",
+    "name": "DiningRug",
+    "room": "Dining",
+    "category": "decor",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Dining/decor_001/DiningFlowers",
+    "name": "DiningFlowers",
+    "room": "Dining",
+    "category": "decor",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Dining/seating_002/DiningChair",
+    "name": "DiningChair",
+    "room": "Dining",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Dining/seating_002/DiningChair_002",
+    "name": "DiningChair_002",
+    "room": "Dining",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Dining/seating_002/DiningChair_003",
+    "name": "DiningChair_003",
+    "room": "Dining",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Dining/seating_002/DiningChair_001",
+    "name": "DiningChair_001",
+    "room": "Dining",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Dining/seating_002/DiningEndChair",
+    "name": "DiningEndChair",
+    "room": "Dining",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Main_001/Dining/seating_002/DiningEndChair_001",
+    "name": "DiningEndChair_001",
+    "room": "Dining",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Outdoor/Balcony/seating_006/BalconyChair",
+    "name": "BalconyChair",
+    "room": "Balcony",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Outdoor/Balcony/seating_006/BalconyChair_001",
+    "name": "BalconyChair_001",
+    "room": "Balcony",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Outdoor/Balcony/tables_008/BalconyTable",
+    "name": "BalconyTable",
+    "room": "Balcony",
+    "category": "tables",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Outdoor/UpperDeck/seating_008/UpperDeckSofa",
+    "name": "UpperDeckSofa",
+    "room": "UpperDeck",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Outdoor/UpperDeck/tables_010/UpperDeckTable",
+    "name": "UpperDeckTable",
+    "room": "UpperDeck",
+    "category": "tables",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Outdoor/Terrace/seating_007/PatioDiningChair",
+    "name": "PatioDiningChair",
+    "room": "Terrace",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Outdoor/Terrace/seating_007/PatioDiningChair_005",
+    "name": "PatioDiningChair_005",
+    "room": "Terrace",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Outdoor/Terrace/seating_007/TerraceChair",
+    "name": "TerraceChair",
+    "room": "Terrace",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Outdoor/Terrace/seating_007/TerraceSofa",
+    "name": "TerraceSofa",
+    "room": "Terrace",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Outdoor/Terrace/seating_007/PatioDiningChair_002",
+    "name": "PatioDiningChair_002",
+    "room": "Terrace",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Outdoor/Terrace/seating_007/PatioDiningChair_003",
+    "name": "PatioDiningChair_003",
+    "room": "Terrace",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Outdoor/Terrace/seating_007/PatioDiningChair_004",
+    "name": "PatioDiningChair_004",
+    "room": "Terrace",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Outdoor/Terrace/seating_007/PatioDiningChair_001",
+    "name": "PatioDiningChair_001",
+    "room": "Terrace",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Outdoor/Terrace/tables_009/TerraceTable",
+    "name": "TerraceTable",
+    "room": "Terrace",
+    "category": "tables",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Outdoor/Terrace/tables_009/OutdoorDining",
+    "name": "OutdoorDining",
+    "room": "Terrace",
+    "category": "tables",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/Family/seating_004/FamilySofa",
+    "name": "FamilySofa",
+    "room": "Family",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/Family/seating_004/FamilyArmchair",
+    "name": "FamilyArmchair",
+    "room": "Family",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/Family/tables_004/FamilyCoffee",
+    "name": "FamilyCoffee",
+    "room": "Family",
+    "category": "tables",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/Family/decor_004/FamilyRug",
+    "name": "FamilyRug",
+    "room": "Family",
+    "category": "decor",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/Family/decor_004/FamilyPlant",
+    "name": "FamilyPlant",
+    "room": "Family",
+    "category": "decor",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/Twins/beds_002/TwinBedOne",
+    "name": "TwinBedOne",
+    "room": "Twins",
+    "category": "beds",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/Twins/beds_002/TwinBedTwo",
+    "name": "TwinBedTwo",
+    "room": "Twins",
+    "category": "beds",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/Twins/decor_006/TwinRug",
+    "name": "TwinRug",
+    "room": "Twins",
+    "category": "decor",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/Twins/tables_006/TwinBedOneNightstand",
+    "name": "TwinBedOneNightstand",
+    "room": "Twins",
+    "category": "tables",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/Twins/tables_006/TwinBedTwoNightstand",
+    "name": "TwinBedTwoNightstand",
+    "room": "Twins",
+    "category": "tables",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/Twins/tables_006/TwinBedOneNightstand_001",
+    "name": "TwinBedOneNightstand_001",
+    "room": "Twins",
+    "category": "tables",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/Twins/tables_006/TwinBedTwoNightstand_001",
+    "name": "TwinBedTwoNightstand_001",
+    "room": "Twins",
+    "category": "tables",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/LowerGuest/beds_003/LowerGuestBed",
+    "name": "LowerGuestBed",
+    "room": "LowerGuest",
+    "category": "beds",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/LowerGuest/decor_007/LowerGuestRug",
+    "name": "LowerGuestRug",
+    "room": "LowerGuest",
+    "category": "decor",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/LowerGuest/decor_007/LowerGuestArt",
+    "name": "LowerGuestArt",
+    "room": "LowerGuest",
+    "category": "decor",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/LowerGuest/decor_007/LowerGuestPlant",
+    "name": "LowerGuestPlant",
+    "room": "LowerGuest",
+    "category": "decor",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/LowerGuest/tables_007/LowerGuestBedNightstand",
+    "name": "LowerGuestBedNightstand",
+    "room": "LowerGuest",
+    "category": "tables",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/LowerGuest/tables_007/LowerGuestBedNightstand_001",
+    "name": "LowerGuestBedNightstand_001",
+    "room": "LowerGuest",
+    "category": "tables",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/Recreation/seating_005/RecreationSofa",
+    "name": "RecreationSofa",
+    "room": "Recreation",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/Recreation/seating_005/RecreationChair",
+    "name": "RecreationChair",
+    "room": "Recreation",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/Recreation/seating_005/RecreationLoveseat",
+    "name": "RecreationLoveseat",
+    "room": "Recreation",
+    "category": "seating",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/Recreation/tables_005/RecreationTable",
+    "name": "RecreationTable",
+    "room": "Recreation",
+    "category": "tables",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/Recreation/decor_005/RecreationRug",
+    "name": "RecreationRug",
+    "room": "Recreation",
+    "category": "decor",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/Recreation/decor_005/RecreationArt",
+    "name": "RecreationArt",
+    "room": "Recreation",
+    "category": "decor",
+    "independently_removable": true
+  },
+  {
+    "path": "/World/House/Staging/Lower_001/Recreation/decor_005/RecreationPlant",
+    "name": "RecreationPlant",
+    "room": "Recreation",
+    "category": "decor",
+    "independently_removable": true
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "reference_comparison": "Local-only evidence/reference-comparison.jpg; listing images excluded from public repository",
+  "appearance_assessment": "Stylized architectural study. Room adjacency and major material families are evidence-guided; geometry, furnishings and site landscaping remain approximate.",
+  "measured_accuracy_claimed": false,
+  "validation": {
+    "native_stage_and_variants": "passed",
+    "desktop_and_mobile_ui": "passed",
+    "touchscreen_swipe": "passed"
+  },
+  "remaining": "Finish corrected render batch and verify GitHub Pages deployment."
+}

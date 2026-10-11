@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "desktop": "1440x1100",
+  "mobile": "390x844",
+  "rooms": 11,
+  "checks": [
+    "room navigation",
+    "furnished/empty",
+    "independent bed/table/decor toggles",
+    "combined staging masks",
+    "floor switching",
+    "orbit buttons and keyboard",
+    "mobile drag rotation",
+    "touchscreen-emulated swipe",
+    "recoverable image error",
+    "download",
+    "no horizontal overflow",
+    "no JS exceptions"
+  ],
+  "tested_url": "http://127.0.0.1:8765/"
+}

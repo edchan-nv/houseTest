@@ -1,0 +1,446 @@
+[
+  {
+    "name": "LivingSofa",
+    "room": "Living",
+    "category": "seating",
+    "level": "Main"
+  },
+  {
+    "name": "LoungeChair",
+    "room": "Living",
+    "category": "seating",
+    "level": "Main"
+  },
+  {
+    "name": "CoffeeTable",
+    "room": "Living",
+    "category": "tables",
+    "level": "Main"
+  },
+  {
+    "name": "Ottoman",
+    "room": "Living",
+    "category": "seating",
+    "level": "Main"
+  },
+  {
+    "name": "LivingRug",
+    "room": "Living",
+    "category": "decor",
+    "level": "Main"
+  },
+  {
+    "name": "LivingTree",
+    "room": "Living",
+    "category": "decor",
+    "level": "Main"
+  },
+  {
+    "name": "LivingArtwork",
+    "room": "Living",
+    "category": "decor",
+    "level": "Main"
+  },
+  {
+    "name": "IslandStool",
+    "room": "Kitchen",
+    "category": "seating",
+    "level": "Main"
+  },
+  {
+    "name": "IslandStool",
+    "room": "Kitchen",
+    "category": "seating",
+    "level": "Main"
+  },
+  {
+    "name": "DiningTable",
+    "room": "Dining",
+    "category": "tables",
+    "level": "Main"
+  },
+  {
+    "name": "DiningChair",
+    "room": "Dining",
+    "category": "seating",
+    "level": "Main"
+  },
+  {
+    "name": "DiningChair",
+    "room": "Dining",
+    "category": "seating",
+    "level": "Main"
+  },
+  {
+    "name": "DiningChair",
+    "room": "Dining",
+    "category": "seating",
+    "level": "Main"
+  },
+  {
+    "name": "DiningChair",
+    "room": "Dining",
+    "category": "seating",
+    "level": "Main"
+  },
+  {
+    "name": "DiningEndChair",
+    "room": "Dining",
+    "category": "seating",
+    "level": "Main"
+  },
+  {
+    "name": "DiningEndChair",
+    "room": "Dining",
+    "category": "seating",
+    "level": "Main"
+  },
+  {
+    "name": "DiningRug",
+    "room": "Dining",
+    "category": "decor",
+    "level": "Main"
+  },
+  {
+    "name": "DiningFlowers",
+    "room": "Dining",
+    "category": "decor",
+    "level": "Main"
+  },
+  {
+    "name": "PrimaryBed",
+    "room": "Primary",
+    "category": "beds",
+    "level": "Main"
+  },
+  {
+    "name": "PrimaryBedNightstand",
+    "room": "Primary",
+    "category": "tables",
+    "level": "Main"
+  },
+  {
+    "name": "PrimaryBedNightstand",
+    "room": "Primary",
+    "category": "tables",
+    "level": "Main"
+  },
+  {
+    "name": "PrimaryRug",
+    "room": "Primary",
+    "category": "decor",
+    "level": "Main"
+  },
+  {
+    "name": "PrimaryArtwork",
+    "room": "Primary",
+    "category": "decor",
+    "level": "Main"
+  },
+  {
+    "name": "PrimaryDesk",
+    "room": "Primary",
+    "category": "tables",
+    "level": "Main"
+  },
+  {
+    "name": "PrimaryDeskChair",
+    "room": "Primary",
+    "category": "seating",
+    "level": "Main"
+  },
+  {
+    "name": "PrimaryPlant",
+    "room": "Primary",
+    "category": "decor",
+    "level": "Main"
+  },
+  {
+    "name": "TableLamp",
+    "room": "Primary",
+    "category": "decor",
+    "level": "Main"
+  },
+  {
+    "name": "TableLamp",
+    "room": "Primary",
+    "category": "decor",
+    "level": "Main"
+  },
+  {
+    "name": "GuestBed",
+    "room": "Guest",
+    "category": "beds",
+    "level": "Main"
+  },
+  {
+    "name": "GuestBedNightstand",
+    "room": "Guest",
+    "category": "tables",
+    "level": "Main"
+  },
+  {
+    "name": "GuestBedNightstand",
+    "room": "Guest",
+    "category": "tables",
+    "level": "Main"
+  },
+  {
+    "name": "GuestRug",
+    "room": "Guest",
+    "category": "decor",
+    "level": "Main"
+  },
+  {
+    "name": "GuestArt",
+    "room": "Guest",
+    "category": "decor",
+    "level": "Main"
+  },
+  {
+    "name": "GuestPlant",
+    "room": "Guest",
+    "category": "decor",
+    "level": "Main"
+  },
+  {
+    "name": "FamilySofa",
+    "room": "Family",
+    "category": "seating",
+    "level": "Lower"
+  },
+  {
+    "name": "FamilyArmchair",
+    "room": "Family",
+    "category": "seating",
+    "level": "Lower"
+  },
+  {
+    "name": "FamilyCoffee",
+    "room": "Family",
+    "category": "tables",
+    "level": "Lower"
+  },
+  {
+    "name": "FamilyRug",
+    "room": "Family",
+    "category": "decor",
+    "level": "Lower"
+  },
+  {
+    "name": "FamilyPlant",
+    "room": "Family",
+    "category": "decor",
+    "level": "Lower"
+  },
+  {
+    "name": "RecreationSofa",
+    "room": "Recreation",
+    "category": "seating",
+    "level": "Lower"
+  },
+  {
+    "name": "RecreationLoveseat",
+    "room": "Recreation",
+    "category": "seating",
+    "level": "Lower"
+  },
+  {
+    "name": "RecreationChair",
+    "room": "Recreation",
+    "category": "seating",
+    "level": "Lower"
+  },
+  {
+    "name": "RecreationTable",
+    "room": "Recreation",
+    "category": "tables",
+    "level": "Lower"
+  },
+  {
+    "name": "RecreationRug",
+    "room": "Recreation",
+    "category": "decor",
+    "level": "Lower"
+  },
+  {
+    "name": "RecreationArt",
+    "room": "Recreation",
+    "category": "decor",
+    "level": "Lower"
+  },
+  {
+    "name": "RecreationPlant",
+    "room": "Recreation",
+    "category": "decor",
+    "level": "Lower"
+  },
+  {
+    "name": "TwinBedOne",
+    "room": "Twins",
+    "category": "beds",
+    "level": "Lower"
+  },
+  {
+    "name": "TwinBedOneNightstand",
+    "room": "Twins",
+    "category": "tables",
+    "level": "Lower"
+  },
+  {
+    "name": "TwinBedOneNightstand",
+    "room": "Twins",
+    "category": "tables",
+    "level": "Lower"
+  },
+  {
+    "name": "TwinBedTwo",
+    "room": "Twins",
+    "category": "beds",
+    "level": "Lower"
+  },
+  {
+    "name": "TwinBedTwoNightstand",
+    "room": "Twins",
+    "category": "tables",
+    "level": "Lower"
+  },
+  {
+    "name": "TwinBedTwoNightstand",
+    "room": "Twins",
+    "category": "tables",
+    "level": "Lower"
+  },
+  {
+    "name": "TwinRug",
+    "room": "Twins",
+    "category": "decor",
+    "level": "Lower"
+  },
+  {
+    "name": "LowerGuestBed",
+    "room": "LowerGuest",
+    "category": "beds",
+    "level": "Lower"
+  },
+  {
+    "name": "LowerGuestBedNightstand",
+    "room": "LowerGuest",
+    "category": "tables",
+    "level": "Lower"
+  },
+  {
+    "name": "LowerGuestBedNightstand",
+    "room": "LowerGuest",
+    "category": "tables",
+    "level": "Lower"
+  },
+  {
+    "name": "LowerGuestRug",
+    "room": "LowerGuest",
+    "category": "decor",
+    "level": "Lower"
+  },
+  {
+    "name": "LowerGuestArt",
+    "room": "LowerGuest",
+    "category": "decor",
+    "level": "Lower"
+  },
+  {
+    "name": "LowerGuestPlant",
+    "room": "LowerGuest",
+    "category": "decor",
+    "level": "Lower"
+  },
+  {
+    "name": "BalconyChair",
+    "room": "Balcony",
+    "category": "seating",
+    "level": "Outdoor"
+  },
+  {
+    "name": "BalconyChair",
+    "room": "Balcony",
+    "category": "seating",
+    "level": "Outdoor"
+  },
+  {
+    "name": "BalconyTable",
+    "room": "Balcony",
+    "category": "tables",
+    "level": "Outdoor"
+  },
+  {
+    "name": "TerraceSofa",
+    "room": "Terrace",
+    "category": "seating",
+    "level": "Outdoor"
+  },
+  {
+    "name": "TerraceTable",
+    "room": "Terrace",
+    "category": "tables",
+    "level": "Outdoor"
+  },
+  {
+    "name": "TerraceChair",
+    "room": "Terrace",
+    "category": "seating",
+    "level": "Outdoor"
+  },
+  {
+    "name": "OutdoorDining",
+    "room": "Terrace",
+    "category": "tables",
+    "level": "Outdoor"
+  },
+  {
+    "name": "PatioDiningChair",
+    "room": "Terrace",
+    "category": "seating",
+    "level": "Outdoor"
+  },
+  {
+    "name": "PatioDiningChair",
+    "room": "Terrace",
+    "category": "seating",
+    "level": "Outdoor"
+  },
+  {
+    "name": "PatioDiningChair",
+    "room": "Terrace",
+    "category": "seating",
+    "level": "Outdoor"
+  },
+  {
+    "name": "PatioDiningChair",
+    "room": "Terrace",
+    "category": "seating",
+    "level": "Outdoor"
+  },
+  {
+    "name": "PatioDiningChair",
+    "room": "Terrace",
+    "category": "seating",
+    "level": "Outdoor"
+  },
+  {
+    "name": "PatioDiningChair",
+    "room": "Terrace",
+    "category": "seating",
+    "level": "Outdoor"
+  },
+  {
+    "name": "UpperDeckSofa",
+    "room": "UpperDeck",
+    "category": "seating",
+    "level": "Outdoor"
+  },
+  {
+    "name": "UpperDeckTable",
+    "room": "UpperDeck",
+    "category": "tables",
+    "level": "Outdoor"
+  }
+]

@@ -1,0 +1,89 @@
+{
+  "passed": true,
+  "views": [
+    {
+      "view": "living",
+      "furnished_empty_changed_fraction": 0.4767,
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "view": "dining",
+      "furnished_empty_changed_fraction": 0.238,
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "view": "kitchen",
+      "furnished_empty_changed_fraction": 0.0885,
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "view": "primary",
+      "furnished_empty_changed_fraction": 0.4953,
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "view": "guest",
+      "furnished_empty_changed_fraction": 0.4367,
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "view": "recreation",
+      "furnished_empty_changed_fraction": 0.4795,
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "view": "family",
+      "furnished_empty_changed_fraction": 0.3097,
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "view": "twins",
+      "furnished_empty_changed_fraction": 0.5512,
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "view": "lowerguest",
+      "furnished_empty_changed_fraction": 0.5147,
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "view": "terrace",
+      "furnished_empty_changed_fraction": 0.2538,
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "view": "balcony",
+      "furnished_empty_changed_fraction": 0.191,
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "view": "exterior",
+      "furnished_empty_changed_fraction": 0.0079,
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "view": "mainplan",
+      "furnished_empty_changed_fraction": 0.0339,
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "view": "lowerplan",
+      "furnished_empty_changed_fraction": 0.0245,
+      "width": 1440,
+      "height": 900
+    }
+  ]
+}

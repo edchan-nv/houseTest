@@ -1,0 +1,7980 @@
+[
+  {
+    "id": "living",
+    "name": "Living room",
+    "room": "Living",
+    "level": "Main",
+    "eye": [
+      8.15,
+      2.9,
+      4.65
+    ],
+    "target": [
+      6.0,
+      6.5,
+      4.4
+    ],
+    "refs": [
+      14,
+      15
+    ],
+    "mask": 0,
+    "file": "living-00.webp"
+  },
+  {
+    "id": "living",
+    "name": "Living room",
+    "room": "Living",
+    "level": "Main",
+    "eye": [
+      8.15,
+      2.9,
+      4.65
+    ],
+    "target": [
+      6.0,
+      6.5,
+      4.4
+    ],
+    "refs": [
+      14,
+      15
+    ],
+    "mask": 1,
+    "file": "living-01.webp"
+  },
+  {
+    "id": "living",
+    "name": "Living room",
+    "room": "Living",
+    "level": "Main",
+    "eye": [
+      8.15,
+      2.9,
+      4.65
+    ],
+    "target": [
+      6.0,
+      6.5,
+      4.4
+    ],
+    "refs": [
+      14,
+      15
+    ],
+    "mask": 2,
+    "file": "living-02.webp"
+  },
+  {
+    "id": "living",
+    "name": "Living room",
+    "room": "Living",
+    "level": "Main",
+    "eye": [
+      8.15,
+      2.9,
+      4.65
+    ],
+    "target": [
+      6.0,
+      6.5,
+      4.4
+    ],
+    "refs": [
+      14,
+      15
+    ],
+    "mask": 3,
+    "file": "living-03.webp"
+  },
+  {
+    "id": "living",
+    "name": "Living room",
+    "room": "Living",
+    "level": "Main",
+    "eye": [
+      8.15,
+      2.9,
+      4.65
+    ],
+    "target": [
+      6.0,
+      6.5,
+      4.4
+    ],
+    "refs": [
+      14,
+      15
+    ],
+    "mask": 4,
+    "file": "living-04.webp"
+  },
+  {
+    "id": "living",
+    "name": "Living room",
+    "room": "Living",
+    "level": "Main",
+    "eye": [
+      8.15,
+      2.9,
+      4.65
+    ],
+    "target": [
+      6.0,
+      6.5,
+      4.4
+    ],
+    "refs": [
+      14,
+      15
+    ],
+    "mask": 5,
+    "file": "living-05.webp"
+  },
+  {
+    "id": "living",
+    "name": "Living room",
+    "room": "Living",
+    "level": "Main",
+    "eye": [
+      8.15,
+      2.9,
+      4.65
+    ],
+    "target": [
+      6.0,
+      6.5,
+      4.4
+    ],
+    "refs": [
+      14,
+      15
+    ],
+    "mask": 6,
+    "file": "living-06.webp"
+  },
+  {
+    "id": "living",
+    "name": "Living room",
+    "room": "Living",
+    "level": "Main",
+    "eye": [
+      8.15,
+      2.9,
+      4.65
+    ],
+    "target": [
+      6.0,
+      6.5,
+      4.4
+    ],
+    "refs": [
+      14,
+      15
+    ],
+    "mask": 7,
+    "file": "living-07.webp"
+  },
+  {
+    "id": "living",
+    "name": "Living room",
+    "room": "Living",
+    "level": "Main",
+    "eye": [
+      8.15,
+      2.9,
+      4.65
+    ],
+    "target": [
+      6.0,
+      6.5,
+      4.4
+    ],
+    "refs": [
+      14,
+      15
+    ],
+    "mask": 8,
+    "file": "living-08.webp"
+  },
+  {
+    "id": "living",
+    "name": "Living room",
+    "room": "Living",
+    "level": "Main",
+    "eye": [
+      8.15,
+      2.9,
+      4.65
+    ],
+    "target": [
+      6.0,
+      6.5,
+      4.4
+    ],
+    "refs": [
+      14,
+      15
+    ],
+    "mask": 9,
+    "file": "living-09.webp"
+  },
+  {
+    "id": "living",
+    "name": "Living room",
+    "room": "Living",
+    "level": "Main",
+    "eye": [
+      8.15,
+      2.9,
+      4.65
+    ],
+    "target": [
+      6.0,
+      6.5,
+      4.4
+    ],
+    "refs": [
+      14,
+      15
+    ],
+    "mask": 10,
+    "file": "living-10.webp"
+  },
+  {
+    "id": "living",
+    "name": "Living room",
+    "room": "Living",
+    "level": "Main",
+    "eye": [
+      8.15,
+      2.9,
+      4.65
+    ],
+    "target": [
+      6.0,
+      6.5,
+      4.4
+    ],
+    "refs": [
+      14,
+      15
+    ],
+    "mask": 11,
+    "file": "living-11.webp"
+  },
+  {
+    "id": "living",
+    "name": "Living room",
+    "room": "Living",
+    "level": "Main",
+    "eye": [
+      8.15,
+      2.9,
+      4.65
+    ],
+    "target": [
+      6.0,
+      6.5,
+      4.4
+    ],
+    "refs": [
+      14,
+      15
+    ],
+    "mask": 12,
+    "file": "living-12.webp"
+  },
+  {
+    "id": "living",
+    "name": "Living room",
+    "room": "Living",
+    "level": "Main",
+    "eye": [
+      8.15,
+      2.9,
+      4.65
+    ],
+    "target": [
+      6.0,
+      6.5,
+      4.4
+    ],
+    "refs": [
+      14,
+      15
+    ],
+    "mask": 13,
+    "file": "living-13.webp"
+  },
+  {
+    "id": "living",
+    "name": "Living room",
+    "room": "Living",
+    "level": "Main",
+    "eye": [
+      8.15,
+      2.9,
+      4.65
+    ],
+    "target": [
+      6.0,
+      6.5,
+      4.4
+    ],
+    "refs": [
+      14,
+      15
+    ],
+    "mask": 14,
+    "file": "living-14.webp"
+  },
+  {
+    "id": "living",
+    "name": "Living room",
+    "room": "Living",
+    "level": "Main",
+    "eye": [
+      8.15,
+      2.9,
+      4.65
+    ],
+    "target": [
+      6.0,
+      6.5,
+      4.4
+    ],
+    "refs": [
+      14,
+      15
+    ],
+    "mask": 15,
+    "file": "living-15.webp"
+  },
+  {
+    "id": "dining",
+    "name": "Dining & kitchen",
+    "room": "Dining",
+    "level": "Main",
+    "eye": [
+      3.9,
+      6.9,
+      4.7
+    ],
+    "target": [
+      2.35,
+      13.8,
+      4.35
+    ],
+    "refs": [
+      16,
+      18
+    ],
+    "mask": 0,
+    "file": "dining-00.webp"
+  },
+  {
+    "id": "dining",
+    "name": "Dining & kitchen",
+    "room": "Dining",
+    "level": "Main",
+    "eye": [
+      3.9,
+      6.9,
+      4.7
+    ],
+    "target": [
+      2.35,
+      13.8,
+      4.35
+    ],
+    "refs": [
+      16,
+      18
+    ],
+    "mask": 1,
+    "file": "dining-01.webp"
+  },
+  {
+    "id": "dining",
+    "name": "Dining & kitchen",
+    "room": "Dining",
+    "level": "Main",
+    "eye": [
+      3.9,
+      6.9,
+      4.7
+    ],
+    "target": [
+      2.35,
+      13.8,
+      4.35
+    ],
+    "refs": [
+      16,
+      18
+    ],
+    "mask": 2,
+    "file": "dining-02.webp"
+  },
+  {
+    "id": "dining",
+    "name": "Dining & kitchen",
+    "room": "Dining",
+    "level": "Main",
+    "eye": [
+      3.9,
+      6.9,
+      4.7
+    ],
+    "target": [
+      2.35,
+      13.8,
+      4.35
+    ],
+    "refs": [
+      16,
+      18
+    ],
+    "mask": 3,
+    "file": "dining-03.webp"
+  },
+  {
+    "id": "dining",
+    "name": "Dining & kitchen",
+    "room": "Dining",
+    "level": "Main",
+    "eye": [
+      3.9,
+      6.9,
+      4.7
+    ],
+    "target": [
+      2.35,
+      13.8,
+      4.35
+    ],
+    "refs": [
+      16,
+      18
+    ],
+    "mask": 4,
+    "file": "dining-04.webp"
+  },
+  {
+    "id": "dining",
+    "name": "Dining & kitchen",
+    "room": "Dining",
+    "level": "Main",
+    "eye": [
+      3.9,
+      6.9,
+      4.7
+    ],
+    "target": [
+      2.35,
+      13.8,
+      4.35
+    ],
+    "refs": [
+      16,
+      18
+    ],
+    "mask": 5,
+    "file": "dining-05.webp"
+  },
+  {
+    "id": "dining",
+    "name": "Dining & kitchen",
+    "room": "Dining",
+    "level": "Main",
+    "eye": [
+      3.9,
+      6.9,
+      4.7
+    ],
+    "target": [
+      2.35,
+      13.8,
+      4.35
+    ],
+    "refs": [
+      16,
+      18
+    ],
+    "mask": 6,
+    "file": "dining-06.webp"
+  },
+  {
+    "id": "dining",
+    "name": "Dining & kitchen",
+    "room": "Dining",
+    "level": "Main",
+    "eye": [
+      3.9,
+      6.9,
+      4.7
+    ],
+    "target": [
+      2.35,
+      13.8,
+      4.35
+    ],
+    "refs": [
+      16,
+      18
+    ],
+    "mask": 7,
+    "file": "dining-07.webp"
+  },
+  {
+    "id": "dining",
+    "name": "Dining & kitchen",
+    "room": "Dining",
+    "level": "Main",
+    "eye": [
+      3.9,
+      6.9,
+      4.7
+    ],
+    "target": [
+      2.35,
+      13.8,
+      4.35
+    ],
+    "refs": [
+      16,
+      18
+    ],
+    "mask": 8,
+    "file": "dining-08.webp"
+  },
+  {
+    "id": "dining",
+    "name": "Dining & kitchen",
+    "room": "Dining",
+    "level": "Main",
+    "eye": [
+      3.9,
+      6.9,
+      4.7
+    ],
+    "target": [
+      2.35,
+      13.8,
+      4.35
+    ],
+    "refs": [
+      16,
+      18
+    ],
+    "mask": 9,
+    "file": "dining-09.webp"
+  },
+  {
+    "id": "dining",
+    "name": "Dining & kitchen",
+    "room": "Dining",
+    "level": "Main",
+    "eye": [
+      3.9,
+      6.9,
+      4.7
+    ],
+    "target": [
+      2.35,
+      13.8,
+      4.35
+    ],
+    "refs": [
+      16,
+      18
+    ],
+    "mask": 10,
+    "file": "dining-10.webp"
+  },
+  {
+    "id": "dining",
+    "name": "Dining & kitchen",
+    "room": "Dining",
+    "level": "Main",
+    "eye": [
+      3.9,
+      6.9,
+      4.7
+    ],
+    "target": [
+      2.35,
+      13.8,
+      4.35
+    ],
+    "refs": [
+      16,
+      18
+    ],
+    "mask": 11,
+    "file": "dining-11.webp"
+  },
+  {
+    "id": "dining",
+    "name": "Dining & kitchen",
+    "room": "Dining",
+    "level": "Main",
+    "eye": [
+      3.9,
+      6.9,
+      4.7
+    ],
+    "target": [
+      2.35,
+      13.8,
+      4.35
+    ],
+    "refs": [
+      16,
+      18
+    ],
+    "mask": 12,
+    "file": "dining-12.webp"
+  },
+  {
+    "id": "dining",
+    "name": "Dining & kitchen",
+    "room": "Dining",
+    "level": "Main",
+    "eye": [
+      3.9,
+      6.9,
+      4.7
+    ],
+    "target": [
+      2.35,
+      13.8,
+      4.35
+    ],
+    "refs": [
+      16,
+      18
+    ],
+    "mask": 13,
+    "file": "dining-13.webp"
+  },
+  {
+    "id": "dining",
+    "name": "Dining & kitchen",
+    "room": "Dining",
+    "level": "Main",
+    "eye": [
+      3.9,
+      6.9,
+      4.7
+    ],
+    "target": [
+      2.35,
+      13.8,
+      4.35
+    ],
+    "refs": [
+      16,
+      18
+    ],
+    "mask": 14,
+    "file": "dining-14.webp"
+  },
+  {
+    "id": "dining",
+    "name": "Dining & kitchen",
+    "room": "Dining",
+    "level": "Main",
+    "eye": [
+      3.9,
+      6.9,
+      4.7
+    ],
+    "target": [
+      2.35,
+      13.8,
+      4.35
+    ],
+    "refs": [
+      16,
+      18
+    ],
+    "mask": 15,
+    "file": "dining-15.webp"
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen",
+    "room": "Kitchen",
+    "level": "Main",
+    "eye": [
+      1.05,
+      11.0,
+      4.7
+    ],
+    "target": [
+      3.1,
+      15,
+      4.3
+    ],
+    "refs": [
+      20,
+      22
+    ],
+    "mask": 0,
+    "file": "kitchen-00.webp"
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen",
+    "room": "Kitchen",
+    "level": "Main",
+    "eye": [
+      1.05,
+      11.0,
+      4.7
+    ],
+    "target": [
+      3.1,
+      15,
+      4.3
+    ],
+    "refs": [
+      20,
+      22
+    ],
+    "mask": 1,
+    "file": "kitchen-01.webp"
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen",
+    "room": "Kitchen",
+    "level": "Main",
+    "eye": [
+      1.05,
+      11.0,
+      4.7
+    ],
+    "target": [
+      3.1,
+      15,
+      4.3
+    ],
+    "refs": [
+      20,
+      22
+    ],
+    "mask": 2,
+    "file": "kitchen-02.webp"
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen",
+    "room": "Kitchen",
+    "level": "Main",
+    "eye": [
+      1.05,
+      11.0,
+      4.7
+    ],
+    "target": [
+      3.1,
+      15,
+      4.3
+    ],
+    "refs": [
+      20,
+      22
+    ],
+    "mask": 3,
+    "file": "kitchen-03.webp"
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen",
+    "room": "Kitchen",
+    "level": "Main",
+    "eye": [
+      1.05,
+      11.0,
+      4.7
+    ],
+    "target": [
+      3.1,
+      15,
+      4.3
+    ],
+    "refs": [
+      20,
+      22
+    ],
+    "mask": 4,
+    "file": "kitchen-04.webp"
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen",
+    "room": "Kitchen",
+    "level": "Main",
+    "eye": [
+      1.05,
+      11.0,
+      4.7
+    ],
+    "target": [
+      3.1,
+      15,
+      4.3
+    ],
+    "refs": [
+      20,
+      22
+    ],
+    "mask": 5,
+    "file": "kitchen-05.webp"
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen",
+    "room": "Kitchen",
+    "level": "Main",
+    "eye": [
+      1.05,
+      11.0,
+      4.7
+    ],
+    "target": [
+      3.1,
+      15,
+      4.3
+    ],
+    "refs": [
+      20,
+      22
+    ],
+    "mask": 6,
+    "file": "kitchen-06.webp"
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen",
+    "room": "Kitchen",
+    "level": "Main",
+    "eye": [
+      1.05,
+      11.0,
+      4.7
+    ],
+    "target": [
+      3.1,
+      15,
+      4.3
+    ],
+    "refs": [
+      20,
+      22
+    ],
+    "mask": 7,
+    "file": "kitchen-07.webp"
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen",
+    "room": "Kitchen",
+    "level": "Main",
+    "eye": [
+      1.05,
+      11.0,
+      4.7
+    ],
+    "target": [
+      3.1,
+      15,
+      4.3
+    ],
+    "refs": [
+      20,
+      22
+    ],
+    "mask": 8,
+    "file": "kitchen-08.webp"
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen",
+    "room": "Kitchen",
+    "level": "Main",
+    "eye": [
+      1.05,
+      11.0,
+      4.7
+    ],
+    "target": [
+      3.1,
+      15,
+      4.3
+    ],
+    "refs": [
+      20,
+      22
+    ],
+    "mask": 9,
+    "file": "kitchen-09.webp"
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen",
+    "room": "Kitchen",
+    "level": "Main",
+    "eye": [
+      1.05,
+      11.0,
+      4.7
+    ],
+    "target": [
+      3.1,
+      15,
+      4.3
+    ],
+    "refs": [
+      20,
+      22
+    ],
+    "mask": 10,
+    "file": "kitchen-10.webp"
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen",
+    "room": "Kitchen",
+    "level": "Main",
+    "eye": [
+      1.05,
+      11.0,
+      4.7
+    ],
+    "target": [
+      3.1,
+      15,
+      4.3
+    ],
+    "refs": [
+      20,
+      22
+    ],
+    "mask": 11,
+    "file": "kitchen-11.webp"
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen",
+    "room": "Kitchen",
+    "level": "Main",
+    "eye": [
+      1.05,
+      11.0,
+      4.7
+    ],
+    "target": [
+      3.1,
+      15,
+      4.3
+    ],
+    "refs": [
+      20,
+      22
+    ],
+    "mask": 12,
+    "file": "kitchen-12.webp"
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen",
+    "room": "Kitchen",
+    "level": "Main",
+    "eye": [
+      1.05,
+      11.0,
+      4.7
+    ],
+    "target": [
+      3.1,
+      15,
+      4.3
+    ],
+    "refs": [
+      20,
+      22
+    ],
+    "mask": 13,
+    "file": "kitchen-13.webp"
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen",
+    "room": "Kitchen",
+    "level": "Main",
+    "eye": [
+      1.05,
+      11.0,
+      4.7
+    ],
+    "target": [
+      3.1,
+      15,
+      4.3
+    ],
+    "refs": [
+      20,
+      22
+    ],
+    "mask": 14,
+    "file": "kitchen-14.webp"
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen",
+    "room": "Kitchen",
+    "level": "Main",
+    "eye": [
+      1.05,
+      11.0,
+      4.7
+    ],
+    "target": [
+      3.1,
+      15,
+      4.3
+    ],
+    "refs": [
+      20,
+      22
+    ],
+    "mask": 15,
+    "file": "kitchen-15.webp"
+  },
+  {
+    "id": "primary",
+    "name": "Primary suite",
+    "room": "Primary",
+    "level": "Main",
+    "eye": [
+      11.15,
+      11.1,
+      4.7
+    ],
+    "target": [
+      9.5,
+      14.8,
+      4.0
+    ],
+    "refs": [
+      28,
+      30
+    ],
+    "mask": 0,
+    "file": "primary-00.webp"
+  },
+  {
+    "id": "primary",
+    "name": "Primary suite",
+    "room": "Primary",
+    "level": "Main",
+    "eye": [
+      11.15,
+      11.1,
+      4.7
+    ],
+    "target": [
+      9.5,
+      14.8,
+      4.0
+    ],
+    "refs": [
+      28,
+      30
+    ],
+    "mask": 1,
+    "file": "primary-01.webp"
+  },
+  {
+    "id": "primary",
+    "name": "Primary suite",
+    "room": "Primary",
+    "level": "Main",
+    "eye": [
+      11.15,
+      11.1,
+      4.7
+    ],
+    "target": [
+      9.5,
+      14.8,
+      4.0
+    ],
+    "refs": [
+      28,
+      30
+    ],
+    "mask": 2,
+    "file": "primary-02.webp"
+  },
+  {
+    "id": "primary",
+    "name": "Primary suite",
+    "room": "Primary",
+    "level": "Main",
+    "eye": [
+      11.15,
+      11.1,
+      4.7
+    ],
+    "target": [
+      9.5,
+      14.8,
+      4.0
+    ],
+    "refs": [
+      28,
+      30
+    ],
+    "mask": 3,
+    "file": "primary-03.webp"
+  },
+  {
+    "id": "primary",
+    "name": "Primary suite",
+    "room": "Primary",
+    "level": "Main",
+    "eye": [
+      11.15,
+      11.1,
+      4.7
+    ],
+    "target": [
+      9.5,
+      14.8,
+      4.0
+    ],
+    "refs": [
+      28,
+      30
+    ],
+    "mask": 4,
+    "file": "primary-04.webp"
+  },
+  {
+    "id": "primary",
+    "name": "Primary suite",
+    "room": "Primary",
+    "level": "Main",
+    "eye": [
+      11.15,
+      11.1,
+      4.7
+    ],
+    "target": [
+      9.5,
+      14.8,
+      4.0
+    ],
+    "refs": [
+      28,
+      30
+    ],
+    "mask": 5,
+    "file": "primary-05.webp"
+  },
+  {
+    "id": "primary",
+    "name": "Primary suite",
+    "room": "Primary",
+    "level": "Main",
+    "eye": [
+      11.15,
+      11.1,
+      4.7
+    ],
+    "target": [
+      9.5,
+      14.8,
+      4.0
+    ],
+    "refs": [
+      28,
+      30
+    ],
+    "mask": 6,
+    "file": "primary-06.webp"
+  },
+  {
+    "id": "primary",
+    "name": "Primary suite",
+    "room": "Primary",
+    "level": "Main",
+    "eye": [
+      11.15,
+      11.1,
+      4.7
+    ],
+    "target": [
+      9.5,
+      14.8,
+      4.0
+    ],
+    "refs": [
+      28,
+      30
+    ],
+    "mask": 7,
+    "file": "primary-07.webp"
+  },
+  {
+    "id": "primary",
+    "name": "Primary suite",
+    "room": "Primary",
+    "level": "Main",
+    "eye": [
+      11.15,
+      11.1,
+      4.7
+    ],
+    "target": [
+      9.5,
+      14.8,
+      4.0
+    ],
+    "refs": [
+      28,
+      30
+    ],
+    "mask": 8,
+    "file": "primary-08.webp"
+  },
+  {
+    "id": "primary",
+    "name": "Primary suite",
+    "room": "Primary",
+    "level": "Main",
+    "eye": [
+      11.15,
+      11.1,
+      4.7
+    ],
+    "target": [
+      9.5,
+      14.8,
+      4.0
+    ],
+    "refs": [
+      28,
+      30
+    ],
+    "mask": 9,
+    "file": "primary-09.webp"
+  },
+  {
+    "id": "primary",
+    "name": "Primary suite",
+    "room": "Primary",
+    "level": "Main",
+    "eye": [
+      11.15,
+      11.1,
+      4.7
+    ],
+    "target": [
+      9.5,
+      14.8,
+      4.0
+    ],
+    "refs": [
+      28,
+      30
+    ],
+    "mask": 10,
+    "file": "primary-10.webp"
+  },
+  {
+    "id": "primary",
+    "name": "Primary suite",
+    "room": "Primary",
+    "level": "Main",
+    "eye": [
+      11.15,
+      11.1,
+      4.7
+    ],
+    "target": [
+      9.5,
+      14.8,
+      4.0
+    ],
+    "refs": [
+      28,
+      30
+    ],
+    "mask": 11,
+    "file": "primary-11.webp"
+  },
+  {
+    "id": "primary",
+    "name": "Primary suite",
+    "room": "Primary",
+    "level": "Main",
+    "eye": [
+      11.15,
+      11.1,
+      4.7
+    ],
+    "target": [
+      9.5,
+      14.8,
+      4.0
+    ],
+    "refs": [
+      28,
+      30
+    ],
+    "mask": 12,
+    "file": "primary-12.webp"
+  },
+  {
+    "id": "primary",
+    "name": "Primary suite",
+    "room": "Primary",
+    "level": "Main",
+    "eye": [
+      11.15,
+      11.1,
+      4.7
+    ],
+    "target": [
+      9.5,
+      14.8,
+      4.0
+    ],
+    "refs": [
+      28,
+      30
+    ],
+    "mask": 13,
+    "file": "primary-13.webp"
+  },
+  {
+    "id": "primary",
+    "name": "Primary suite",
+    "room": "Primary",
+    "level": "Main",
+    "eye": [
+      11.15,
+      11.1,
+      4.7
+    ],
+    "target": [
+      9.5,
+      14.8,
+      4.0
+    ],
+    "refs": [
+      28,
+      30
+    ],
+    "mask": 14,
+    "file": "primary-14.webp"
+  },
+  {
+    "id": "primary",
+    "name": "Primary suite",
+    "room": "Primary",
+    "level": "Main",
+    "eye": [
+      11.15,
+      11.1,
+      4.7
+    ],
+    "target": [
+      9.5,
+      14.8,
+      4.0
+    ],
+    "refs": [
+      28,
+      30
+    ],
+    "mask": 15,
+    "file": "primary-15.webp"
+  },
+  {
+    "id": "guest",
+    "name": "Main guest room",
+    "room": "Guest",
+    "level": "Main",
+    "eye": [
+      4.0,
+      0.6,
+      4.65
+    ],
+    "target": [
+      2.5,
+      3.0,
+      3.85
+    ],
+    "refs": [
+      39,
+      41
+    ],
+    "mask": 0,
+    "file": "guest-00.webp"
+  },
+  {
+    "id": "guest",
+    "name": "Main guest room",
+    "room": "Guest",
+    "level": "Main",
+    "eye": [
+      4.0,
+      0.6,
+      4.65
+    ],
+    "target": [
+      2.5,
+      3.0,
+      3.85
+    ],
+    "refs": [
+      39,
+      41
+    ],
+    "mask": 1,
+    "file": "guest-01.webp"
+  },
+  {
+    "id": "guest",
+    "name": "Main guest room",
+    "room": "Guest",
+    "level": "Main",
+    "eye": [
+      4.0,
+      0.6,
+      4.65
+    ],
+    "target": [
+      2.5,
+      3.0,
+      3.85
+    ],
+    "refs": [
+      39,
+      41
+    ],
+    "mask": 2,
+    "file": "guest-02.webp"
+  },
+  {
+    "id": "guest",
+    "name": "Main guest room",
+    "room": "Guest",
+    "level": "Main",
+    "eye": [
+      4.0,
+      0.6,
+      4.65
+    ],
+    "target": [
+      2.5,
+      3.0,
+      3.85
+    ],
+    "refs": [
+      39,
+      41
+    ],
+    "mask": 3,
+    "file": "guest-03.webp"
+  },
+  {
+    "id": "guest",
+    "name": "Main guest room",
+    "room": "Guest",
+    "level": "Main",
+    "eye": [
+      4.0,
+      0.6,
+      4.65
+    ],
+    "target": [
+      2.5,
+      3.0,
+      3.85
+    ],
+    "refs": [
+      39,
+      41
+    ],
+    "mask": 4,
+    "file": "guest-04.webp"
+  },
+  {
+    "id": "guest",
+    "name": "Main guest room",
+    "room": "Guest",
+    "level": "Main",
+    "eye": [
+      4.0,
+      0.6,
+      4.65
+    ],
+    "target": [
+      2.5,
+      3.0,
+      3.85
+    ],
+    "refs": [
+      39,
+      41
+    ],
+    "mask": 5,
+    "file": "guest-05.webp"
+  },
+  {
+    "id": "guest",
+    "name": "Main guest room",
+    "room": "Guest",
+    "level": "Main",
+    "eye": [
+      4.0,
+      0.6,
+      4.65
+    ],
+    "target": [
+      2.5,
+      3.0,
+      3.85
+    ],
+    "refs": [
+      39,
+      41
+    ],
+    "mask": 6,
+    "file": "guest-06.webp"
+  },
+  {
+    "id": "guest",
+    "name": "Main guest room",
+    "room": "Guest",
+    "level": "Main",
+    "eye": [
+      4.0,
+      0.6,
+      4.65
+    ],
+    "target": [
+      2.5,
+      3.0,
+      3.85
+    ],
+    "refs": [
+      39,
+      41
+    ],
+    "mask": 7,
+    "file": "guest-07.webp"
+  },
+  {
+    "id": "guest",
+    "name": "Main guest room",
+    "room": "Guest",
+    "level": "Main",
+    "eye": [
+      4.0,
+      0.6,
+      4.65
+    ],
+    "target": [
+      2.5,
+      3.0,
+      3.85
+    ],
+    "refs": [
+      39,
+      41
+    ],
+    "mask": 8,
+    "file": "guest-08.webp"
+  },
+  {
+    "id": "guest",
+    "name": "Main guest room",
+    "room": "Guest",
+    "level": "Main",
+    "eye": [
+      4.0,
+      0.6,
+      4.65
+    ],
+    "target": [
+      2.5,
+      3.0,
+      3.85
+    ],
+    "refs": [
+      39,
+      41
+    ],
+    "mask": 9,
+    "file": "guest-09.webp"
+  },
+  {
+    "id": "guest",
+    "name": "Main guest room",
+    "room": "Guest",
+    "level": "Main",
+    "eye": [
+      4.0,
+      0.6,
+      4.65
+    ],
+    "target": [
+      2.5,
+      3.0,
+      3.85
+    ],
+    "refs": [
+      39,
+      41
+    ],
+    "mask": 10,
+    "file": "guest-10.webp"
+  },
+  {
+    "id": "guest",
+    "name": "Main guest room",
+    "room": "Guest",
+    "level": "Main",
+    "eye": [
+      4.0,
+      0.6,
+      4.65
+    ],
+    "target": [
+      2.5,
+      3.0,
+      3.85
+    ],
+    "refs": [
+      39,
+      41
+    ],
+    "mask": 11,
+    "file": "guest-11.webp"
+  },
+  {
+    "id": "guest",
+    "name": "Main guest room",
+    "room": "Guest",
+    "level": "Main",
+    "eye": [
+      4.0,
+      0.6,
+      4.65
+    ],
+    "target": [
+      2.5,
+      3.0,
+      3.85
+    ],
+    "refs": [
+      39,
+      41
+    ],
+    "mask": 12,
+    "file": "guest-12.webp"
+  },
+  {
+    "id": "guest",
+    "name": "Main guest room",
+    "room": "Guest",
+    "level": "Main",
+    "eye": [
+      4.0,
+      0.6,
+      4.65
+    ],
+    "target": [
+      2.5,
+      3.0,
+      3.85
+    ],
+    "refs": [
+      39,
+      41
+    ],
+    "mask": 13,
+    "file": "guest-13.webp"
+  },
+  {
+    "id": "guest",
+    "name": "Main guest room",
+    "room": "Guest",
+    "level": "Main",
+    "eye": [
+      4.0,
+      0.6,
+      4.65
+    ],
+    "target": [
+      2.5,
+      3.0,
+      3.85
+    ],
+    "refs": [
+      39,
+      41
+    ],
+    "mask": 14,
+    "file": "guest-14.webp"
+  },
+  {
+    "id": "guest",
+    "name": "Main guest room",
+    "room": "Guest",
+    "level": "Main",
+    "eye": [
+      4.0,
+      0.6,
+      4.65
+    ],
+    "target": [
+      2.5,
+      3.0,
+      3.85
+    ],
+    "refs": [
+      39,
+      41
+    ],
+    "mask": 15,
+    "file": "guest-15.webp"
+  },
+  {
+    "id": "recreation",
+    "name": "Recreation room",
+    "room": "Recreation",
+    "level": "Lower",
+    "eye": [
+      3.6,
+      10.1,
+      1.6
+    ],
+    "target": [
+      2.0,
+      14.0,
+      1.05
+    ],
+    "refs": [
+      63,
+      68
+    ],
+    "mask": 0,
+    "file": "recreation-00.webp"
+  },
+  {
+    "id": "recreation",
+    "name": "Recreation room",
+    "room": "Recreation",
+    "level": "Lower",
+    "eye": [
+      3.6,
+      10.1,
+      1.6
+    ],
+    "target": [
+      2.0,
+      14.0,
+      1.05
+    ],
+    "refs": [
+      63,
+      68
+    ],
+    "mask": 1,
+    "file": "recreation-01.webp"
+  },
+  {
+    "id": "recreation",
+    "name": "Recreation room",
+    "room": "Recreation",
+    "level": "Lower",
+    "eye": [
+      3.6,
+      10.1,
+      1.6
+    ],
+    "target": [
+      2.0,
+      14.0,
+      1.05
+    ],
+    "refs": [
+      63,
+      68
+    ],
+    "mask": 2,
+    "file": "recreation-02.webp"
+  },
+  {
+    "id": "recreation",
+    "name": "Recreation room",
+    "room": "Recreation",
+    "level": "Lower",
+    "eye": [
+      3.6,
+      10.1,
+      1.6
+    ],
+    "target": [
+      2.0,
+      14.0,
+      1.05
+    ],
+    "refs": [
+      63,
+      68
+    ],
+    "mask": 3,
+    "file": "recreation-03.webp"
+  },
+  {
+    "id": "recreation",
+    "name": "Recreation room",
+    "room": "Recreation",
+    "level": "Lower",
+    "eye": [
+      3.6,
+      10.1,
+      1.6
+    ],
+    "target": [
+      2.0,
+      14.0,
+      1.05
+    ],
+    "refs": [
+      63,
+      68
+    ],
+    "mask": 4,
+    "file": "recreation-04.webp"
+  },
+  {
+    "id": "recreation",
+    "name": "Recreation room",
+    "room": "Recreation",
+    "level": "Lower",
+    "eye": [
+      3.6,
+      10.1,
+      1.6
+    ],
+    "target": [
+      2.0,
+      14.0,
+      1.05
+    ],
+    "refs": [
+      63,
+      68
+    ],
+    "mask": 5,
+    "file": "recreation-05.webp"
+  },
+  {
+    "id": "recreation",
+    "name": "Recreation room",
+    "room": "Recreation",
+    "level": "Lower",
+    "eye": [
+      3.6,
+      10.1,
+      1.6
+    ],
+    "target": [
+      2.0,
+      14.0,
+      1.05
+    ],
+    "refs": [
+      63,
+      68
+    ],
+    "mask": 6,
+    "file": "recreation-06.webp"
+  },
+  {
+    "id": "recreation",
+    "name": "Recreation room",
+    "room": "Recreation",
+    "level": "Lower",
+    "eye": [
+      3.6,
+      10.1,
+      1.6
+    ],
+    "target": [
+      2.0,
+      14.0,
+      1.05
+    ],
+    "refs": [
+      63,
+      68
+    ],
+    "mask": 7,
+    "file": "recreation-07.webp"
+  },
+  {
+    "id": "recreation",
+    "name": "Recreation room",
+    "room": "Recreation",
+    "level": "Lower",
+    "eye": [
+      3.6,
+      10.1,
+      1.6
+    ],
+    "target": [
+      2.0,
+      14.0,
+      1.05
+    ],
+    "refs": [
+      63,
+      68
+    ],
+    "mask": 8,
+    "file": "recreation-08.webp"
+  },
+  {
+    "id": "recreation",
+    "name": "Recreation room",
+    "room": "Recreation",
+    "level": "Lower",
+    "eye": [
+      3.6,
+      10.1,
+      1.6
+    ],
+    "target": [
+      2.0,
+      14.0,
+      1.05
+    ],
+    "refs": [
+      63,
+      68
+    ],
+    "mask": 9,
+    "file": "recreation-09.webp"
+  },
+  {
+    "id": "recreation",
+    "name": "Recreation room",
+    "room": "Recreation",
+    "level": "Lower",
+    "eye": [
+      3.6,
+      10.1,
+      1.6
+    ],
+    "target": [
+      2.0,
+      14.0,
+      1.05
+    ],
+    "refs": [
+      63,
+      68
+    ],
+    "mask": 10,
+    "file": "recreation-10.webp"
+  },
+  {
+    "id": "recreation",
+    "name": "Recreation room",
+    "room": "Recreation",
+    "level": "Lower",
+    "eye": [
+      3.6,
+      10.1,
+      1.6
+    ],
+    "target": [
+      2.0,
+      14.0,
+      1.05
+    ],
+    "refs": [
+      63,
+      68
+    ],
+    "mask": 11,
+    "file": "recreation-11.webp"
+  },
+  {
+    "id": "recreation",
+    "name": "Recreation room",
+    "room": "Recreation",
+    "level": "Lower",
+    "eye": [
+      3.6,
+      10.1,
+      1.6
+    ],
+    "target": [
+      2.0,
+      14.0,
+      1.05
+    ],
+    "refs": [
+      63,
+      68
+    ],
+    "mask": 12,
+    "file": "recreation-12.webp"
+  },
+  {
+    "id": "recreation",
+    "name": "Recreation room",
+    "room": "Recreation",
+    "level": "Lower",
+    "eye": [
+      3.6,
+      10.1,
+      1.6
+    ],
+    "target": [
+      2.0,
+      14.0,
+      1.05
+    ],
+    "refs": [
+      63,
+      68
+    ],
+    "mask": 13,
+    "file": "recreation-13.webp"
+  },
+  {
+    "id": "recreation",
+    "name": "Recreation room",
+    "room": "Recreation",
+    "level": "Lower",
+    "eye": [
+      3.6,
+      10.1,
+      1.6
+    ],
+    "target": [
+      2.0,
+      14.0,
+      1.05
+    ],
+    "refs": [
+      63,
+      68
+    ],
+    "mask": 14,
+    "file": "recreation-14.webp"
+  },
+  {
+    "id": "recreation",
+    "name": "Recreation room",
+    "room": "Recreation",
+    "level": "Lower",
+    "eye": [
+      3.6,
+      10.1,
+      1.6
+    ],
+    "target": [
+      2.0,
+      14.0,
+      1.05
+    ],
+    "refs": [
+      63,
+      68
+    ],
+    "mask": 15,
+    "file": "recreation-15.webp"
+  },
+  {
+    "id": "family",
+    "name": "Family room",
+    "room": "Family",
+    "level": "Lower",
+    "eye": [
+      3.8,
+      0.4,
+      1.65
+    ],
+    "target": [
+      2.25,
+      3,
+      1.0
+    ],
+    "refs": [
+      42,
+      43
+    ],
+    "mask": 0,
+    "file": "family-00.webp"
+  },
+  {
+    "id": "family",
+    "name": "Family room",
+    "room": "Family",
+    "level": "Lower",
+    "eye": [
+      3.8,
+      0.4,
+      1.65
+    ],
+    "target": [
+      2.25,
+      3,
+      1.0
+    ],
+    "refs": [
+      42,
+      43
+    ],
+    "mask": 1,
+    "file": "family-01.webp"
+  },
+  {
+    "id": "family",
+    "name": "Family room",
+    "room": "Family",
+    "level": "Lower",
+    "eye": [
+      3.8,
+      0.4,
+      1.65
+    ],
+    "target": [
+      2.25,
+      3,
+      1.0
+    ],
+    "refs": [
+      42,
+      43
+    ],
+    "mask": 2,
+    "file": "family-02.webp"
+  },
+  {
+    "id": "family",
+    "name": "Family room",
+    "room": "Family",
+    "level": "Lower",
+    "eye": [
+      3.8,
+      0.4,
+      1.65
+    ],
+    "target": [
+      2.25,
+      3,
+      1.0
+    ],
+    "refs": [
+      42,
+      43
+    ],
+    "mask": 3,
+    "file": "family-03.webp"
+  },
+  {
+    "id": "family",
+    "name": "Family room",
+    "room": "Family",
+    "level": "Lower",
+    "eye": [
+      3.8,
+      0.4,
+      1.65
+    ],
+    "target": [
+      2.25,
+      3,
+      1.0
+    ],
+    "refs": [
+      42,
+      43
+    ],
+    "mask": 4,
+    "file": "family-04.webp"
+  },
+  {
+    "id": "family",
+    "name": "Family room",
+    "room": "Family",
+    "level": "Lower",
+    "eye": [
+      3.8,
+      0.4,
+      1.65
+    ],
+    "target": [
+      2.25,
+      3,
+      1.0
+    ],
+    "refs": [
+      42,
+      43
+    ],
+    "mask": 5,
+    "file": "family-05.webp"
+  },
+  {
+    "id": "family",
+    "name": "Family room",
+    "room": "Family",
+    "level": "Lower",
+    "eye": [
+      3.8,
+      0.4,
+      1.65
+    ],
+    "target": [
+      2.25,
+      3,
+      1.0
+    ],
+    "refs": [
+      42,
+      43
+    ],
+    "mask": 6,
+    "file": "family-06.webp"
+  },
+  {
+    "id": "family",
+    "name": "Family room",
+    "room": "Family",
+    "level": "Lower",
+    "eye": [
+      3.8,
+      0.4,
+      1.65
+    ],
+    "target": [
+      2.25,
+      3,
+      1.0
+    ],
+    "refs": [
+      42,
+      43
+    ],
+    "mask": 7,
+    "file": "family-07.webp"
+  },
+  {
+    "id": "family",
+    "name": "Family room",
+    "room": "Family",
+    "level": "Lower",
+    "eye": [
+      3.8,
+      0.4,
+      1.65
+    ],
+    "target": [
+      2.25,
+      3,
+      1.0
+    ],
+    "refs": [
+      42,
+      43
+    ],
+    "mask": 8,
+    "file": "family-08.webp"
+  },
+  {
+    "id": "family",
+    "name": "Family room",
+    "room": "Family",
+    "level": "Lower",
+    "eye": [
+      3.8,
+      0.4,
+      1.65
+    ],
+    "target": [
+      2.25,
+      3,
+      1.0
+    ],
+    "refs": [
+      42,
+      43
+    ],
+    "mask": 9,
+    "file": "family-09.webp"
+  },
+  {
+    "id": "family",
+    "name": "Family room",
+    "room": "Family",
+    "level": "Lower",
+    "eye": [
+      3.8,
+      0.4,
+      1.65
+    ],
+    "target": [
+      2.25,
+      3,
+      1.0
+    ],
+    "refs": [
+      42,
+      43
+    ],
+    "mask": 10,
+    "file": "family-10.webp"
+  },
+  {
+    "id": "family",
+    "name": "Family room",
+    "room": "Family",
+    "level": "Lower",
+    "eye": [
+      3.8,
+      0.4,
+      1.65
+    ],
+    "target": [
+      2.25,
+      3,
+      1.0
+    ],
+    "refs": [
+      42,
+      43
+    ],
+    "mask": 11,
+    "file": "family-11.webp"
+  },
+  {
+    "id": "family",
+    "name": "Family room",
+    "room": "Family",
+    "level": "Lower",
+    "eye": [
+      3.8,
+      0.4,
+      1.65
+    ],
+    "target": [
+      2.25,
+      3,
+      1.0
+    ],
+    "refs": [
+      42,
+      43
+    ],
+    "mask": 12,
+    "file": "family-12.webp"
+  },
+  {
+    "id": "family",
+    "name": "Family room",
+    "room": "Family",
+    "level": "Lower",
+    "eye": [
+      3.8,
+      0.4,
+      1.65
+    ],
+    "target": [
+      2.25,
+      3,
+      1.0
+    ],
+    "refs": [
+      42,
+      43
+    ],
+    "mask": 13,
+    "file": "family-13.webp"
+  },
+  {
+    "id": "family",
+    "name": "Family room",
+    "room": "Family",
+    "level": "Lower",
+    "eye": [
+      3.8,
+      0.4,
+      1.65
+    ],
+    "target": [
+      2.25,
+      3,
+      1.0
+    ],
+    "refs": [
+      42,
+      43
+    ],
+    "mask": 14,
+    "file": "family-14.webp"
+  },
+  {
+    "id": "family",
+    "name": "Family room",
+    "room": "Family",
+    "level": "Lower",
+    "eye": [
+      3.8,
+      0.4,
+      1.65
+    ],
+    "target": [
+      2.25,
+      3,
+      1.0
+    ],
+    "refs": [
+      42,
+      43
+    ],
+    "mask": 15,
+    "file": "family-15.webp"
+  },
+  {
+    "id": "twins",
+    "name": "Twin bedroom",
+    "room": "Twins",
+    "level": "Lower",
+    "eye": [
+      8.15,
+      4.85,
+      1.65
+    ],
+    "target": [
+      6.35,
+      6.7,
+      0.85
+    ],
+    "refs": [
+      51,
+      53
+    ],
+    "mask": 0,
+    "file": "twins-00.webp"
+  },
+  {
+    "id": "twins",
+    "name": "Twin bedroom",
+    "room": "Twins",
+    "level": "Lower",
+    "eye": [
+      8.15,
+      4.85,
+      1.65
+    ],
+    "target": [
+      6.35,
+      6.7,
+      0.85
+    ],
+    "refs": [
+      51,
+      53
+    ],
+    "mask": 1,
+    "file": "twins-01.webp"
+  },
+  {
+    "id": "twins",
+    "name": "Twin bedroom",
+    "room": "Twins",
+    "level": "Lower",
+    "eye": [
+      8.15,
+      4.85,
+      1.65
+    ],
+    "target": [
+      6.35,
+      6.7,
+      0.85
+    ],
+    "refs": [
+      51,
+      53
+    ],
+    "mask": 2,
+    "file": "twins-02.webp"
+  },
+  {
+    "id": "twins",
+    "name": "Twin bedroom",
+    "room": "Twins",
+    "level": "Lower",
+    "eye": [
+      8.15,
+      4.85,
+      1.65
+    ],
+    "target": [
+      6.35,
+      6.7,
+      0.85
+    ],
+    "refs": [
+      51,
+      53
+    ],
+    "mask": 3,
+    "file": "twins-03.webp"
+  },
+  {
+    "id": "twins",
+    "name": "Twin bedroom",
+    "room": "Twins",
+    "level": "Lower",
+    "eye": [
+      8.15,
+      4.85,
+      1.65
+    ],
+    "target": [
+      6.35,
+      6.7,
+      0.85
+    ],
+    "refs": [
+      51,
+      53
+    ],
+    "mask": 4,
+    "file": "twins-04.webp"
+  },
+  {
+    "id": "twins",
+    "name": "Twin bedroom",
+    "room": "Twins",
+    "level": "Lower",
+    "eye": [
+      8.15,
+      4.85,
+      1.65
+    ],
+    "target": [
+      6.35,
+      6.7,
+      0.85
+    ],
+    "refs": [
+      51,
+      53
+    ],
+    "mask": 5,
+    "file": "twins-05.webp"
+  },
+  {
+    "id": "twins",
+    "name": "Twin bedroom",
+    "room": "Twins",
+    "level": "Lower",
+    "eye": [
+      8.15,
+      4.85,
+      1.65
+    ],
+    "target": [
+      6.35,
+      6.7,
+      0.85
+    ],
+    "refs": [
+      51,
+      53
+    ],
+    "mask": 6,
+    "file": "twins-06.webp"
+  },
+  {
+    "id": "twins",
+    "name": "Twin bedroom",
+    "room": "Twins",
+    "level": "Lower",
+    "eye": [
+      8.15,
+      4.85,
+      1.65
+    ],
+    "target": [
+      6.35,
+      6.7,
+      0.85
+    ],
+    "refs": [
+      51,
+      53
+    ],
+    "mask": 7,
+    "file": "twins-07.webp"
+  },
+  {
+    "id": "twins",
+    "name": "Twin bedroom",
+    "room": "Twins",
+    "level": "Lower",
+    "eye": [
+      8.15,
+      4.85,
+      1.65
+    ],
+    "target": [
+      6.35,
+      6.7,
+      0.85
+    ],
+    "refs": [
+      51,
+      53
+    ],
+    "mask": 8,
+    "file": "twins-08.webp"
+  },
+  {
+    "id": "twins",
+    "name": "Twin bedroom",
+    "room": "Twins",
+    "level": "Lower",
+    "eye": [
+      8.15,
+      4.85,
+      1.65
+    ],
+    "target": [
+      6.35,
+      6.7,
+      0.85
+    ],
+    "refs": [
+      51,
+      53
+    ],
+    "mask": 9,
+    "file": "twins-09.webp"
+  },
+  {
+    "id": "twins",
+    "name": "Twin bedroom",
+    "room": "Twins",
+    "level": "Lower",
+    "eye": [
+      8.15,
+      4.85,
+      1.65
+    ],
+    "target": [
+      6.35,
+      6.7,
+      0.85
+    ],
+    "refs": [
+      51,
+      53
+    ],
+    "mask": 10,
+    "file": "twins-10.webp"
+  },
+  {
+    "id": "twins",
+    "name": "Twin bedroom",
+    "room": "Twins",
+    "level": "Lower",
+    "eye": [
+      8.15,
+      4.85,
+      1.65
+    ],
+    "target": [
+      6.35,
+      6.7,
+      0.85
+    ],
+    "refs": [
+      51,
+      53
+    ],
+    "mask": 11,
+    "file": "twins-11.webp"
+  },
+  {
+    "id": "twins",
+    "name": "Twin bedroom",
+    "room": "Twins",
+    "level": "Lower",
+    "eye": [
+      8.15,
+      4.85,
+      1.65
+    ],
+    "target": [
+      6.35,
+      6.7,
+      0.85
+    ],
+    "refs": [
+      51,
+      53
+    ],
+    "mask": 12,
+    "file": "twins-12.webp"
+  },
+  {
+    "id": "twins",
+    "name": "Twin bedroom",
+    "room": "Twins",
+    "level": "Lower",
+    "eye": [
+      8.15,
+      4.85,
+      1.65
+    ],
+    "target": [
+      6.35,
+      6.7,
+      0.85
+    ],
+    "refs": [
+      51,
+      53
+    ],
+    "mask": 13,
+    "file": "twins-13.webp"
+  },
+  {
+    "id": "twins",
+    "name": "Twin bedroom",
+    "room": "Twins",
+    "level": "Lower",
+    "eye": [
+      8.15,
+      4.85,
+      1.65
+    ],
+    "target": [
+      6.35,
+      6.7,
+      0.85
+    ],
+    "refs": [
+      51,
+      53
+    ],
+    "mask": 14,
+    "file": "twins-14.webp"
+  },
+  {
+    "id": "twins",
+    "name": "Twin bedroom",
+    "room": "Twins",
+    "level": "Lower",
+    "eye": [
+      8.15,
+      4.85,
+      1.65
+    ],
+    "target": [
+      6.35,
+      6.7,
+      0.85
+    ],
+    "refs": [
+      51,
+      53
+    ],
+    "mask": 15,
+    "file": "twins-15.webp"
+  },
+  {
+    "id": "lowerguest",
+    "name": "Lower guest room",
+    "room": "LowerGuest",
+    "level": "Lower",
+    "eye": [
+      8.1,
+      0.55,
+      1.65
+    ],
+    "target": [
+      6.45,
+      2.85,
+      0.85
+    ],
+    "refs": [
+      54,
+      55
+    ],
+    "mask": 0,
+    "file": "lowerguest-00.webp"
+  },
+  {
+    "id": "lowerguest",
+    "name": "Lower guest room",
+    "room": "LowerGuest",
+    "level": "Lower",
+    "eye": [
+      8.1,
+      0.55,
+      1.65
+    ],
+    "target": [
+      6.45,
+      2.85,
+      0.85
+    ],
+    "refs": [
+      54,
+      55
+    ],
+    "mask": 1,
+    "file": "lowerguest-01.webp"
+  },
+  {
+    "id": "lowerguest",
+    "name": "Lower guest room",
+    "room": "LowerGuest",
+    "level": "Lower",
+    "eye": [
+      8.1,
+      0.55,
+      1.65
+    ],
+    "target": [
+      6.45,
+      2.85,
+      0.85
+    ],
+    "refs": [
+      54,
+      55
+    ],
+    "mask": 2,
+    "file": "lowerguest-02.webp"
+  },
+  {
+    "id": "lowerguest",
+    "name": "Lower guest room",
+    "room": "LowerGuest",
+    "level": "Lower",
+    "eye": [
+      8.1,
+      0.55,
+      1.65
+    ],
+    "target": [
+      6.45,
+      2.85,
+      0.85
+    ],
+    "refs": [
+      54,
+      55
+    ],
+    "mask": 3,
+    "file": "lowerguest-03.webp"
+  },
+  {
+    "id": "lowerguest",
+    "name": "Lower guest room",
+    "room": "LowerGuest",
+    "level": "Lower",
+    "eye": [
+      8.1,
+      0.55,
+      1.65
+    ],
+    "target": [
+      6.45,
+      2.85,
+      0.85
+    ],
+    "refs": [
+      54,
+      55
+    ],
+    "mask": 4,
+    "file": "lowerguest-04.webp"
+  },
+  {
+    "id": "lowerguest",
+    "name": "Lower guest room",
+    "room": "LowerGuest",
+    "level": "Lower",
+    "eye": [
+      8.1,
+      0.55,
+      1.65
+    ],
+    "target": [
+      6.45,
+      2.85,
+      0.85
+    ],
+    "refs": [
+      54,
+      55
+    ],
+    "mask": 5,
+    "file": "lowerguest-05.webp"
+  },
+  {
+    "id": "lowerguest",
+    "name": "Lower guest room",
+    "room": "LowerGuest",
+    "level": "Lower",
+    "eye": [
+      8.1,
+      0.55,
+      1.65
+    ],
+    "target": [
+      6.45,
+      2.85,
+      0.85
+    ],
+    "refs": [
+      54,
+      55
+    ],
+    "mask": 6,
+    "file": "lowerguest-06.webp"
+  },
+  {
+    "id": "lowerguest",
+    "name": "Lower guest room",
+    "room": "LowerGuest",
+    "level": "Lower",
+    "eye": [
+      8.1,
+      0.55,
+      1.65
+    ],
+    "target": [
+      6.45,
+      2.85,
+      0.85
+    ],
+    "refs": [
+      54,
+      55
+    ],
+    "mask": 7,
+    "file": "lowerguest-07.webp"
+  },
+  {
+    "id": "lowerguest",
+    "name": "Lower guest room",
+    "room": "LowerGuest",
+    "level": "Lower",
+    "eye": [
+      8.1,
+      0.55,
+      1.65
+    ],
+    "target": [
+      6.45,
+      2.85,
+      0.85
+    ],
+    "refs": [
+      54,
+      55
+    ],
+    "mask": 8,
+    "file": "lowerguest-08.webp"
+  },
+  {
+    "id": "lowerguest",
+    "name": "Lower guest room",
+    "room": "LowerGuest",
+    "level": "Lower",
+    "eye": [
+      8.1,
+      0.55,
+      1.65
+    ],
+    "target": [
+      6.45,
+      2.85,
+      0.85
+    ],
+    "refs": [
+      54,
+      55
+    ],
+    "mask": 9,
+    "file": "lowerguest-09.webp"
+  },
+  {
+    "id": "lowerguest",
+    "name": "Lower guest room",
+    "room": "LowerGuest",
+    "level": "Lower",
+    "eye": [
+      8.1,
+      0.55,
+      1.65
+    ],
+    "target": [
+      6.45,
+      2.85,
+      0.85
+    ],
+    "refs": [
+      54,
+      55
+    ],
+    "mask": 10,
+    "file": "lowerguest-10.webp"
+  },
+  {
+    "id": "lowerguest",
+    "name": "Lower guest room",
+    "room": "LowerGuest",
+    "level": "Lower",
+    "eye": [
+      8.1,
+      0.55,
+      1.65
+    ],
+    "target": [
+      6.45,
+      2.85,
+      0.85
+    ],
+    "refs": [
+      54,
+      55
+    ],
+    "mask": 11,
+    "file": "lowerguest-11.webp"
+  },
+  {
+    "id": "lowerguest",
+    "name": "Lower guest room",
+    "room": "LowerGuest",
+    "level": "Lower",
+    "eye": [
+      8.1,
+      0.55,
+      1.65
+    ],
+    "target": [
+      6.45,
+      2.85,
+      0.85
+    ],
+    "refs": [
+      54,
+      55
+    ],
+    "mask": 12,
+    "file": "lowerguest-12.webp"
+  },
+  {
+    "id": "lowerguest",
+    "name": "Lower guest room",
+    "room": "LowerGuest",
+    "level": "Lower",
+    "eye": [
+      8.1,
+      0.55,
+      1.65
+    ],
+    "target": [
+      6.45,
+      2.85,
+      0.85
+    ],
+    "refs": [
+      54,
+      55
+    ],
+    "mask": 13,
+    "file": "lowerguest-13.webp"
+  },
+  {
+    "id": "lowerguest",
+    "name": "Lower guest room",
+    "room": "LowerGuest",
+    "level": "Lower",
+    "eye": [
+      8.1,
+      0.55,
+      1.65
+    ],
+    "target": [
+      6.45,
+      2.85,
+      0.85
+    ],
+    "refs": [
+      54,
+      55
+    ],
+    "mask": 14,
+    "file": "lowerguest-14.webp"
+  },
+  {
+    "id": "lowerguest",
+    "name": "Lower guest room",
+    "room": "LowerGuest",
+    "level": "Lower",
+    "eye": [
+      8.1,
+      0.55,
+      1.65
+    ],
+    "target": [
+      6.45,
+      2.85,
+      0.85
+    ],
+    "refs": [
+      54,
+      55
+    ],
+    "mask": 15,
+    "file": "lowerguest-15.webp"
+  },
+  {
+    "id": "terrace",
+    "name": "Garden terrace",
+    "room": "Terrace",
+    "level": "Outdoor",
+    "eye": [
+      -4.65,
+      6.7,
+      4.8
+    ],
+    "target": [
+      -2.4,
+      13.7,
+      4.15
+    ],
+    "refs": [
+      84,
+      90
+    ],
+    "mask": 0,
+    "file": "terrace-00.webp"
+  },
+  {
+    "id": "terrace",
+    "name": "Garden terrace",
+    "room": "Terrace",
+    "level": "Outdoor",
+    "eye": [
+      -4.65,
+      6.7,
+      4.8
+    ],
+    "target": [
+      -2.4,
+      13.7,
+      4.15
+    ],
+    "refs": [
+      84,
+      90
+    ],
+    "mask": 1,
+    "file": "terrace-01.webp"
+  },
+  {
+    "id": "terrace",
+    "name": "Garden terrace",
+    "room": "Terrace",
+    "level": "Outdoor",
+    "eye": [
+      -4.65,
+      6.7,
+      4.8
+    ],
+    "target": [
+      -2.4,
+      13.7,
+      4.15
+    ],
+    "refs": [
+      84,
+      90
+    ],
+    "mask": 2,
+    "file": "terrace-02.webp"
+  },
+  {
+    "id": "terrace",
+    "name": "Garden terrace",
+    "room": "Terrace",
+    "level": "Outdoor",
+    "eye": [
+      -4.65,
+      6.7,
+      4.8
+    ],
+    "target": [
+      -2.4,
+      13.7,
+      4.15
+    ],
+    "refs": [
+      84,
+      90
+    ],
+    "mask": 3,
+    "file": "terrace-03.webp"
+  },
+  {
+    "id": "terrace",
+    "name": "Garden terrace",
+    "room": "Terrace",
+    "level": "Outdoor",
+    "eye": [
+      -4.65,
+      6.7,
+      4.8
+    ],
+    "target": [
+      -2.4,
+      13.7,
+      4.15
+    ],
+    "refs": [
+      84,
+      90
+    ],
+    "mask": 4,
+    "file": "terrace-04.webp"
+  },
+  {
+    "id": "terrace",
+    "name": "Garden terrace",
+    "room": "Terrace",
+    "level": "Outdoor",
+    "eye": [
+      -4.65,
+      6.7,
+      4.8
+    ],
+    "target": [
+      -2.4,
+      13.7,
+      4.15
+    ],
+    "refs": [
+      84,
+      90
+    ],
+    "mask": 5,
+    "file": "terrace-05.webp"
+  },
+  {
+    "id": "terrace",
+    "name": "Garden terrace",
+    "room": "Terrace",
+    "level": "Outdoor",
+    "eye": [
+      -4.65,
+      6.7,
+      4.8
+    ],
+    "target": [
+      -2.4,
+      13.7,
+      4.15
+    ],
+    "refs": [
+      84,
+      90
+    ],
+    "mask": 6,
+    "file": "terrace-06.webp"
+  },
+  {
+    "id": "terrace",
+    "name": "Garden terrace",
+    "room": "Terrace",
+    "level": "Outdoor",
+    "eye": [
+      -4.65,
+      6.7,
+      4.8
+    ],
+    "target": [
+      -2.4,
+      13.7,
+      4.15
+    ],
+    "refs": [
+      84,
+      90
+    ],
+    "mask": 7,
+    "file": "terrace-07.webp"
+  },
+  {
+    "id": "terrace",
+    "name": "Garden terrace",
+    "room": "Terrace",
+    "level": "Outdoor",
+    "eye": [
+      -4.65,
+      6.7,
+      4.8
+    ],
+    "target": [
+      -2.4,
+      13.7,
+      4.15
+    ],
+    "refs": [
+      84,
+      90
+    ],
+    "mask": 8,
+    "file": "terrace-08.webp"
+  },
+  {
+    "id": "terrace",
+    "name": "Garden terrace",
+    "room": "Terrace",
+    "level": "Outdoor",
+    "eye": [
+      -4.65,
+      6.7,
+      4.8
+    ],
+    "target": [
+      -2.4,
+      13.7,
+      4.15
+    ],
+    "refs": [
+      84,
+      90
+    ],
+    "mask": 9,
+    "file": "terrace-09.webp"
+  },
+  {
+    "id": "terrace",
+    "name": "Garden terrace",
+    "room": "Terrace",
+    "level": "Outdoor",
+    "eye": [
+      -4.65,
+      6.7,
+      4.8
+    ],
+    "target": [
+      -2.4,
+      13.7,
+      4.15
+    ],
+    "refs": [
+      84,
+      90
+    ],
+    "mask": 10,
+    "file": "terrace-10.webp"
+  },
+  {
+    "id": "terrace",
+    "name": "Garden terrace",
+    "room": "Terrace",
+    "level": "Outdoor",
+    "eye": [
+      -4.65,
+      6.7,
+      4.8
+    ],
+    "target": [
+      -2.4,
+      13.7,
+      4.15
+    ],
+    "refs": [
+      84,
+      90
+    ],
+    "mask": 11,
+    "file": "terrace-11.webp"
+  },
+  {
+    "id": "terrace",
+    "name": "Garden terrace",
+    "room": "Terrace",
+    "level": "Outdoor",
+    "eye": [
+      -4.65,
+      6.7,
+      4.8
+    ],
+    "target": [
+      -2.4,
+      13.7,
+      4.15
+    ],
+    "refs": [
+      84,
+      90
+    ],
+    "mask": 12,
+    "file": "terrace-12.webp"
+  },
+  {
+    "id": "terrace",
+    "name": "Garden terrace",
+    "room": "Terrace",
+    "level": "Outdoor",
+    "eye": [
+      -4.65,
+      6.7,
+      4.8
+    ],
+    "target": [
+      -2.4,
+      13.7,
+      4.15
+    ],
+    "refs": [
+      84,
+      90
+    ],
+    "mask": 13,
+    "file": "terrace-13.webp"
+  },
+  {
+    "id": "terrace",
+    "name": "Garden terrace",
+    "room": "Terrace",
+    "level": "Outdoor",
+    "eye": [
+      -4.65,
+      6.7,
+      4.8
+    ],
+    "target": [
+      -2.4,
+      13.7,
+      4.15
+    ],
+    "refs": [
+      84,
+      90
+    ],
+    "mask": 14,
+    "file": "terrace-14.webp"
+  },
+  {
+    "id": "terrace",
+    "name": "Garden terrace",
+    "room": "Terrace",
+    "level": "Outdoor",
+    "eye": [
+      -4.65,
+      6.7,
+      4.8
+    ],
+    "target": [
+      -2.4,
+      13.7,
+      4.15
+    ],
+    "refs": [
+      84,
+      90
+    ],
+    "mask": 15,
+    "file": "terrace-15.webp"
+  },
+  {
+    "id": "balcony",
+    "name": "Front balcony",
+    "room": "Balcony",
+    "level": "Outdoor",
+    "eye": [
+      11.2,
+      3.7,
+      4.7
+    ],
+    "target": [
+      9.1,
+      7.4,
+      4.0
+    ],
+    "refs": [
+      76,
+      78
+    ],
+    "mask": 0,
+    "file": "balcony-00.webp"
+  },
+  {
+    "id": "balcony",
+    "name": "Front balcony",
+    "room": "Balcony",
+    "level": "Outdoor",
+    "eye": [
+      11.2,
+      3.7,
+      4.7
+    ],
+    "target": [
+      9.1,
+      7.4,
+      4.0
+    ],
+    "refs": [
+      76,
+      78
+    ],
+    "mask": 1,
+    "file": "balcony-01.webp"
+  },
+  {
+    "id": "balcony",
+    "name": "Front balcony",
+    "room": "Balcony",
+    "level": "Outdoor",
+    "eye": [
+      11.2,
+      3.7,
+      4.7
+    ],
+    "target": [
+      9.1,
+      7.4,
+      4.0
+    ],
+    "refs": [
+      76,
+      78
+    ],
+    "mask": 2,
+    "file": "balcony-02.webp"
+  },
+  {
+    "id": "balcony",
+    "name": "Front balcony",
+    "room": "Balcony",
+    "level": "Outdoor",
+    "eye": [
+      11.2,
+      3.7,
+      4.7
+    ],
+    "target": [
+      9.1,
+      7.4,
+      4.0
+    ],
+    "refs": [
+      76,
+      78
+    ],
+    "mask": 3,
+    "file": "balcony-03.webp"
+  },
+  {
+    "id": "balcony",
+    "name": "Front balcony",
+    "room": "Balcony",
+    "level": "Outdoor",
+    "eye": [
+      11.2,
+      3.7,
+      4.7
+    ],
+    "target": [
+      9.1,
+      7.4,
+      4.0
+    ],
+    "refs": [
+      76,
+      78
+    ],
+    "mask": 4,
+    "file": "balcony-04.webp"
+  },
+  {
+    "id": "balcony",
+    "name": "Front balcony",
+    "room": "Balcony",
+    "level": "Outdoor",
+    "eye": [
+      11.2,
+      3.7,
+      4.7
+    ],
+    "target": [
+      9.1,
+      7.4,
+      4.0
+    ],
+    "refs": [
+      76,
+      78
+    ],
+    "mask": 5,
+    "file": "balcony-05.webp"
+  },
+  {
+    "id": "balcony",
+    "name": "Front balcony",
+    "room": "Balcony",
+    "level": "Outdoor",
+    "eye": [
+      11.2,
+      3.7,
+      4.7
+    ],
+    "target": [
+      9.1,
+      7.4,
+      4.0
+    ],
+    "refs": [
+      76,
+      78
+    ],
+    "mask": 6,
+    "file": "balcony-06.webp"
+  },
+  {
+    "id": "balcony",
+    "name": "Front balcony",
+    "room": "Balcony",
+    "level": "Outdoor",
+    "eye": [
+      11.2,
+      3.7,
+      4.7
+    ],
+    "target": [
+      9.1,
+      7.4,
+      4.0
+    ],
+    "refs": [
+      76,
+      78
+    ],
+    "mask": 7,
+    "file": "balcony-07.webp"
+  },
+  {
+    "id": "balcony",
+    "name": "Front balcony",
+    "room": "Balcony",
+    "level": "Outdoor",
+    "eye": [
+      11.2,
+      3.7,
+      4.7
+    ],
+    "target": [
+      9.1,
+      7.4,
+      4.0
+    ],
+    "refs": [
+      76,
+      78
+    ],
+    "mask": 8,
+    "file": "balcony-08.webp"
+  },
+  {
+    "id": "balcony",
+    "name": "Front balcony",
+    "room": "Balcony",
+    "level": "Outdoor",
+    "eye": [
+      11.2,
+      3.7,
+      4.7
+    ],
+    "target": [
+      9.1,
+      7.4,
+      4.0
+    ],
+    "refs": [
+      76,
+      78
+    ],
+    "mask": 9,
+    "file": "balcony-09.webp"
+  },
+  {
+    "id": "balcony",
+    "name": "Front balcony",
+    "room": "Balcony",
+    "level": "Outdoor",
+    "eye": [
+      11.2,
+      3.7,
+      4.7
+    ],
+    "target": [
+      9.1,
+      7.4,
+      4.0
+    ],
+    "refs": [
+      76,
+      78
+    ],
+    "mask": 10,
+    "file": "balcony-10.webp"
+  },
+  {
+    "id": "balcony",
+    "name": "Front balcony",
+    "room": "Balcony",
+    "level": "Outdoor",
+    "eye": [
+      11.2,
+      3.7,
+      4.7
+    ],
+    "target": [
+      9.1,
+      7.4,
+      4.0
+    ],
+    "refs": [
+      76,
+      78
+    ],
+    "mask": 11,
+    "file": "balcony-11.webp"
+  },
+  {
+    "id": "balcony",
+    "name": "Front balcony",
+    "room": "Balcony",
+    "level": "Outdoor",
+    "eye": [
+      11.2,
+      3.7,
+      4.7
+    ],
+    "target": [
+      9.1,
+      7.4,
+      4.0
+    ],
+    "refs": [
+      76,
+      78
+    ],
+    "mask": 12,
+    "file": "balcony-12.webp"
+  },
+  {
+    "id": "balcony",
+    "name": "Front balcony",
+    "room": "Balcony",
+    "level": "Outdoor",
+    "eye": [
+      11.2,
+      3.7,
+      4.7
+    ],
+    "target": [
+      9.1,
+      7.4,
+      4.0
+    ],
+    "refs": [
+      76,
+      78
+    ],
+    "mask": 13,
+    "file": "balcony-13.webp"
+  },
+  {
+    "id": "balcony",
+    "name": "Front balcony",
+    "room": "Balcony",
+    "level": "Outdoor",
+    "eye": [
+      11.2,
+      3.7,
+      4.7
+    ],
+    "target": [
+      9.1,
+      7.4,
+      4.0
+    ],
+    "refs": [
+      76,
+      78
+    ],
+    "mask": 14,
+    "file": "balcony-14.webp"
+  },
+  {
+    "id": "balcony",
+    "name": "Front balcony",
+    "room": "Balcony",
+    "level": "Outdoor",
+    "eye": [
+      11.2,
+      3.7,
+      4.7
+    ],
+    "target": [
+      9.1,
+      7.4,
+      4.0
+    ],
+    "refs": [
+      76,
+      78
+    ],
+    "mask": 15,
+    "file": "balcony-15.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      24,
+      -16,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "file": "exterior-00.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      24,
+      -16,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 1,
+    "file": "exterior-01.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      24,
+      -16,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 2,
+    "file": "exterior-02.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      24,
+      -16,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 3,
+    "file": "exterior-03.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      24,
+      -16,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 4,
+    "file": "exterior-04.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      24,
+      -16,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 5,
+    "file": "exterior-05.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      24,
+      -16,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 6,
+    "file": "exterior-06.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      24,
+      -16,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 7,
+    "file": "exterior-07.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      24,
+      -16,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 8,
+    "file": "exterior-08.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      24,
+      -16,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 9,
+    "file": "exterior-09.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      24,
+      -16,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 10,
+    "file": "exterior-10.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      24,
+      -16,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 11,
+    "file": "exterior-11.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      24,
+      -16,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 12,
+    "file": "exterior-12.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      24,
+      -16,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 13,
+    "file": "exterior-13.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      24,
+      -16,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 14,
+    "file": "exterior-14.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      24,
+      -16,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "file": "exterior-15.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      22,
+      -12,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "file": "mainplan-00.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      22,
+      -12,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 1,
+    "file": "mainplan-01.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      22,
+      -12,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 2,
+    "file": "mainplan-02.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      22,
+      -12,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 3,
+    "file": "mainplan-03.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      22,
+      -12,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 4,
+    "file": "mainplan-04.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      22,
+      -12,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 5,
+    "file": "mainplan-05.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      22,
+      -12,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 6,
+    "file": "mainplan-06.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      22,
+      -12,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 7,
+    "file": "mainplan-07.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      22,
+      -12,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 8,
+    "file": "mainplan-08.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      22,
+      -12,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 9,
+    "file": "mainplan-09.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      22,
+      -12,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 10,
+    "file": "mainplan-10.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      22,
+      -12,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 11,
+    "file": "mainplan-11.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      22,
+      -12,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 12,
+    "file": "mainplan-12.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      22,
+      -12,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 13,
+    "file": "mainplan-13.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      22,
+      -12,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 14,
+    "file": "mainplan-14.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      22,
+      -12,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "file": "mainplan-15.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      22,
+      -12,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "file": "lowerplan-00.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      22,
+      -12,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 1,
+    "file": "lowerplan-01.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      22,
+      -12,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 2,
+    "file": "lowerplan-02.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      22,
+      -12,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 3,
+    "file": "lowerplan-03.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      22,
+      -12,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 4,
+    "file": "lowerplan-04.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      22,
+      -12,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 5,
+    "file": "lowerplan-05.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      22,
+      -12,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 6,
+    "file": "lowerplan-06.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      22,
+      -12,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 7,
+    "file": "lowerplan-07.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      22,
+      -12,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 8,
+    "file": "lowerplan-08.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      22,
+      -12,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 9,
+    "file": "lowerplan-09.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      22,
+      -12,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 10,
+    "file": "lowerplan-10.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      22,
+      -12,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 11,
+    "file": "lowerplan-11.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      22,
+      -12,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 12,
+    "file": "lowerplan-12.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      22,
+      -12,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 13,
+    "file": "lowerplan-13.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      22,
+      -12,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 14,
+    "file": "lowerplan-14.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      22,
+      -12,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "file": "lowerplan-15.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      29.564247781952794,
+      -10.264657973989745,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 1,
+    "file": "exterior-00-01.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      29.564247781952794,
+      -10.264657973989745,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 1,
+    "file": "exterior-15-01.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      33.45448267190434,
+      -3.284609690826528,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 2,
+    "file": "exterior-00-02.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      33.45448267190434,
+      -3.284609690826528,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 2,
+    "file": "exterior-15-02.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      35.40559159102155,
+      4.464466094067259,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 3,
+    "file": "exterior-00-03.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      35.40559159102155,
+      4.464466094067259,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 3,
+    "file": "exterior-15-03.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      35.28460969082653,
+      12.45448267190433,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 4,
+    "file": "exterior-00-04.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      35.28460969082653,
+      12.45448267190433,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 4,
+    "file": "exterior-15-04.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      33.09978168788554,
+      20.1409336170318,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 5,
+    "file": "exterior-00-05.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      33.09978168788554,
+      20.1409336170318,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 5,
+    "file": "exterior-15-05.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      29.0,
+      27.0,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 6,
+    "file": "exterior-00-06.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      29.0,
+      27.0,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 6,
+    "file": "exterior-15-06.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      23.26465797398975,
+      32.564247781952794,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 7,
+    "file": "exterior-00-07.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      23.26465797398975,
+      32.564247781952794,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 7,
+    "file": "exterior-15-07.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      16.28460969082653,
+      36.45448267190433,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 8,
+    "file": "exterior-00-08.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      16.28460969082653,
+      36.45448267190433,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 8,
+    "file": "exterior-15-08.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      8.535533905932741,
+      38.40559159102155,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 9,
+    "file": "exterior-00-09.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      8.535533905932741,
+      38.40559159102155,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 9,
+    "file": "exterior-15-09.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      0.5455173280956611,
+      38.28460969082653,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 10,
+    "file": "exterior-00-10.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      0.5455173280956611,
+      38.28460969082653,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 10,
+    "file": "exterior-15-10.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      -7.140933617031791,
+      36.09978168788554,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 11,
+    "file": "exterior-00-11.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      -7.140933617031791,
+      36.09978168788554,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 11,
+    "file": "exterior-15-11.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      -13.999999999999996,
+      32.0,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 12,
+    "file": "exterior-00-12.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      -13.999999999999996,
+      32.0,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 12,
+    "file": "exterior-15-12.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      -19.564247781952794,
+      26.264657973989745,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 13,
+    "file": "exterior-00-13.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      -19.564247781952794,
+      26.264657973989745,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 13,
+    "file": "exterior-15-13.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      -23.45448267190433,
+      19.284609690826535,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 14,
+    "file": "exterior-00-14.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      -23.45448267190433,
+      19.284609690826535,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 14,
+    "file": "exterior-15-14.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      -25.40559159102154,
+      11.535533905932754,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 15,
+    "file": "exterior-00-15.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      -25.40559159102154,
+      11.535533905932754,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 15,
+    "file": "exterior-15-15.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      -25.284609690826528,
+      3.5455173280956807,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 16,
+    "file": "exterior-00-16.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      -25.284609690826528,
+      3.5455173280956807,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 16,
+    "file": "exterior-15-16.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      -23.09978168788553,
+      -4.140933617031801,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 17,
+    "file": "exterior-00-17.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      -23.09978168788553,
+      -4.140933617031801,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 17,
+    "file": "exterior-15-17.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      -19.000000000000004,
+      -10.999999999999996,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 18,
+    "file": "exterior-00-18.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      -19.000000000000004,
+      -10.999999999999996,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 18,
+    "file": "exterior-15-18.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      -13.264657973989754,
+      -16.564247781952787,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 19,
+    "file": "exterior-00-19.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      -13.264657973989754,
+      -16.564247781952787,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 19,
+    "file": "exterior-15-19.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      -6.284609690826526,
+      -20.454482671904337,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 20,
+    "file": "exterior-00-20.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      -6.284609690826526,
+      -20.454482671904337,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 20,
+    "file": "exterior-15-20.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      1.4644660940672551,
+      -22.40559159102154,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 21,
+    "file": "exterior-00-21.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      1.4644660940672551,
+      -22.40559159102154,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 21,
+    "file": "exterior-15-21.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      9.45448267190432,
+      -22.284609690826528,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 22,
+    "file": "exterior-00-22.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      9.45448267190432,
+      -22.284609690826528,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 22,
+    "file": "exterior-15-22.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      17.140933617031777,
+      -20.099781687885542,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 0,
+    "orbit": 23,
+    "file": "exterior-00-23.webp"
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      17.140933617031777,
+      -20.099781687885542,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ],
+    "mask": 15,
+    "orbit": 23,
+    "file": "exterior-15-23.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      26.62437928793332,
+      -7.125647995120531,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 1,
+    "file": "mainplan-00-01.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      26.62437928793332,
+      -7.125647995120531,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 1,
+    "file": "mainplan-15-01.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      29.829611541307905,
+      -1.2205080756887767,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 2,
+    "file": "mainplan-00-02.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      29.829611541307905,
+      -1.2205080756887767,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 2,
+    "file": "mainplan-15-02.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      31.397265478953017,
+      5.312994231491118,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 3,
+    "file": "mainplan-00-03.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      31.397265478953017,
+      5.312994231491118,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 3,
+    "file": "mainplan-15-03.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      31.220508075688773,
+      12.029611541307903,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 4,
+    "file": "mainplan-00-04.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      31.220508075688773,
+      12.029611541307903,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 4,
+    "file": "mainplan-15-04.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      29.3113850564422,
+      18.471617483832492,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 5,
+    "file": "mainplan-00-05.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      29.3113850564422,
+      18.471617483832492,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 5,
+    "file": "mainplan-15-05.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      25.8,
+      24.2,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 6,
+    "file": "mainplan-00-06.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      25.8,
+      24.2,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 6,
+    "file": "mainplan-15-06.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      20.92564799512053,
+      28.82437928793332,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 7,
+    "file": "mainplan-00-07.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      20.92564799512053,
+      28.82437928793332,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 7,
+    "file": "mainplan-15-07.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      15.020508075688777,
+      32.0296115413079,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 8,
+    "file": "mainplan-00-08.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      15.020508075688777,
+      32.0296115413079,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 8,
+    "file": "mainplan-15-08.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      8.487005768508883,
+      33.59726547895302,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 9,
+    "file": "mainplan-00-09.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      8.487005768508883,
+      33.59726547895302,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 9,
+    "file": "mainplan-15-09.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      1.770388458692091,
+      33.42050807568877,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 10,
+    "file": "mainplan-00-10.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      1.770388458692091,
+      33.42050807568877,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 10,
+    "file": "mainplan-15-10.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      -4.671617483832483,
+      31.5113850564422,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 11,
+    "file": "mainplan-00-11.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      -4.671617483832483,
+      31.5113850564422,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 11,
+    "file": "mainplan-15-11.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      -10.399999999999997,
+      28.0,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 12,
+    "file": "mainplan-00-12.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      -10.399999999999997,
+      28.0,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 12,
+    "file": "mainplan-15-12.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      -15.024379287933321,
+      23.12564799512053,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 13,
+    "file": "mainplan-00-13.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      -15.024379287933321,
+      23.12564799512053,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 13,
+    "file": "mainplan-15-13.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      -18.229611541307904,
+      17.220508075688784,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 14,
+    "file": "mainplan-00-14.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      -18.229611541307904,
+      17.220508075688784,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 14,
+    "file": "mainplan-15-14.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      -19.79726547895302,
+      10.687005768508895,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 15,
+    "file": "mainplan-00-15.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      -19.79726547895302,
+      10.687005768508895,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 15,
+    "file": "mainplan-15-15.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      -19.620508075688775,
+      3.970388458692108,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 16,
+    "file": "mainplan-00-16.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      -19.620508075688775,
+      3.970388458692108,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 16,
+    "file": "mainplan-15-16.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      -17.7113850564422,
+      -2.4716174838324925,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 17,
+    "file": "mainplan-00-17.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      -17.7113850564422,
+      -2.4716174838324925,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 17,
+    "file": "mainplan-15-17.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      -14.200000000000003,
+      -8.199999999999996,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 18,
+    "file": "mainplan-00-18.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      -14.200000000000003,
+      -8.199999999999996,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 18,
+    "file": "mainplan-15-18.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      -9.32564799512054,
+      -12.824379287933313,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 19,
+    "file": "mainplan-00-19.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      -9.32564799512054,
+      -12.824379287933313,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 19,
+    "file": "mainplan-15-19.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      -3.420508075688769,
+      -16.029611541307908,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 20,
+    "file": "mainplan-00-20.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      -3.420508075688769,
+      -16.029611541307908,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 20,
+    "file": "mainplan-15-20.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      3.112994231491111,
+      -17.59726547895302,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 21,
+    "file": "mainplan-00-21.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      3.112994231491111,
+      -17.59726547895302,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 21,
+    "file": "mainplan-15-21.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      9.829611541307893,
+      -17.420508075688772,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 22,
+    "file": "mainplan-00-22.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      9.829611541307893,
+      -17.420508075688772,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 22,
+    "file": "mainplan-15-22.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      16.27161748383247,
+      -15.511385056442212,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 23,
+    "file": "mainplan-00-23.webp"
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      16.27161748383247,
+      -15.511385056442212,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 23,
+    "file": "mainplan-15-23.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      26.62437928793332,
+      -7.125647995120531,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 1,
+    "file": "lowerplan-00-01.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      26.62437928793332,
+      -7.125647995120531,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 1,
+    "file": "lowerplan-15-01.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      29.829611541307905,
+      -1.2205080756887767,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 2,
+    "file": "lowerplan-00-02.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      29.829611541307905,
+      -1.2205080756887767,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 2,
+    "file": "lowerplan-15-02.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      31.397265478953017,
+      5.312994231491118,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 3,
+    "file": "lowerplan-00-03.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      31.397265478953017,
+      5.312994231491118,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 3,
+    "file": "lowerplan-15-03.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      31.220508075688773,
+      12.029611541307903,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 4,
+    "file": "lowerplan-00-04.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      31.220508075688773,
+      12.029611541307903,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 4,
+    "file": "lowerplan-15-04.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      29.3113850564422,
+      18.471617483832492,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 5,
+    "file": "lowerplan-00-05.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      29.3113850564422,
+      18.471617483832492,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 5,
+    "file": "lowerplan-15-05.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      25.8,
+      24.2,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 6,
+    "file": "lowerplan-00-06.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      25.8,
+      24.2,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 6,
+    "file": "lowerplan-15-06.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      20.92564799512053,
+      28.82437928793332,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 7,
+    "file": "lowerplan-00-07.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      20.92564799512053,
+      28.82437928793332,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 7,
+    "file": "lowerplan-15-07.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      15.020508075688777,
+      32.0296115413079,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 8,
+    "file": "lowerplan-00-08.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      15.020508075688777,
+      32.0296115413079,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 8,
+    "file": "lowerplan-15-08.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      8.487005768508883,
+      33.59726547895302,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 9,
+    "file": "lowerplan-00-09.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      8.487005768508883,
+      33.59726547895302,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 9,
+    "file": "lowerplan-15-09.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      1.770388458692091,
+      33.42050807568877,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 10,
+    "file": "lowerplan-00-10.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      1.770388458692091,
+      33.42050807568877,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 10,
+    "file": "lowerplan-15-10.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      -4.671617483832483,
+      31.5113850564422,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 11,
+    "file": "lowerplan-00-11.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      -4.671617483832483,
+      31.5113850564422,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 11,
+    "file": "lowerplan-15-11.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      -10.399999999999997,
+      28.0,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 12,
+    "file": "lowerplan-00-12.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      -10.399999999999997,
+      28.0,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 12,
+    "file": "lowerplan-15-12.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      -15.024379287933321,
+      23.12564799512053,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 13,
+    "file": "lowerplan-00-13.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      -15.024379287933321,
+      23.12564799512053,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 13,
+    "file": "lowerplan-15-13.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      -18.229611541307904,
+      17.220508075688784,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 14,
+    "file": "lowerplan-00-14.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      -18.229611541307904,
+      17.220508075688784,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 14,
+    "file": "lowerplan-15-14.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      -19.79726547895302,
+      10.687005768508895,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 15,
+    "file": "lowerplan-00-15.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      -19.79726547895302,
+      10.687005768508895,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 15,
+    "file": "lowerplan-15-15.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      -19.620508075688775,
+      3.970388458692108,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 16,
+    "file": "lowerplan-00-16.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      -19.620508075688775,
+      3.970388458692108,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 16,
+    "file": "lowerplan-15-16.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      -17.7113850564422,
+      -2.4716174838324925,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 17,
+    "file": "lowerplan-00-17.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      -17.7113850564422,
+      -2.4716174838324925,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 17,
+    "file": "lowerplan-15-17.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      -14.200000000000003,
+      -8.199999999999996,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 18,
+    "file": "lowerplan-00-18.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      -14.200000000000003,
+      -8.199999999999996,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 18,
+    "file": "lowerplan-15-18.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      -9.32564799512054,
+      -12.824379287933313,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 19,
+    "file": "lowerplan-00-19.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      -9.32564799512054,
+      -12.824379287933313,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 19,
+    "file": "lowerplan-15-19.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      -3.420508075688769,
+      -16.029611541307908,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 20,
+    "file": "lowerplan-00-20.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      -3.420508075688769,
+      -16.029611541307908,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 20,
+    "file": "lowerplan-15-20.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      3.112994231491111,
+      -17.59726547895302,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 21,
+    "file": "lowerplan-00-21.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      3.112994231491111,
+      -17.59726547895302,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 21,
+    "file": "lowerplan-15-21.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      9.829611541307893,
+      -17.420508075688772,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 22,
+    "file": "lowerplan-00-22.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      9.829611541307893,
+      -17.420508075688772,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 22,
+    "file": "lowerplan-15-22.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      16.27161748383247,
+      -15.511385056442212,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 0,
+    "orbit": 23,
+    "file": "lowerplan-00-23.webp"
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      16.27161748383247,
+      -15.511385056442212,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ],
+    "mask": 15,
+    "orbit": 23,
+    "file": "lowerplan-15-23.webp"
+  }
+]

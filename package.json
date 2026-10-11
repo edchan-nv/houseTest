@@ -1,0 +1,1 @@
+{"name":"housetest-millbrae","private":true,"version":"1.0.0","scripts":{"test":"node scripts/test_ui.cjs","validate":"python3 scripts/validate_site.py","serve":"python3 -m http.server 8765 --directory public"},"devDependencies":{"playwright":"1.64.0"}}

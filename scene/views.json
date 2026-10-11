@@ -1,0 +1,280 @@
+[
+  {
+    "id": "living",
+    "name": "Living room",
+    "room": "Living",
+    "level": "Main",
+    "eye": [
+      8.15,
+      2.9,
+      4.65
+    ],
+    "target": [
+      6.0,
+      6.5,
+      4.4
+    ],
+    "refs": [
+      14,
+      15
+    ]
+  },
+  {
+    "id": "dining",
+    "name": "Dining & kitchen",
+    "room": "Dining",
+    "level": "Main",
+    "eye": [
+      3.9,
+      6.9,
+      4.7
+    ],
+    "target": [
+      2.35,
+      13.8,
+      4.35
+    ],
+    "refs": [
+      16,
+      18
+    ]
+  },
+  {
+    "id": "kitchen",
+    "name": "Kitchen",
+    "room": "Kitchen",
+    "level": "Main",
+    "eye": [
+      1.05,
+      11.0,
+      4.7
+    ],
+    "target": [
+      3.1,
+      15,
+      4.3
+    ],
+    "refs": [
+      20,
+      22
+    ]
+  },
+  {
+    "id": "primary",
+    "name": "Primary suite",
+    "room": "Primary",
+    "level": "Main",
+    "eye": [
+      11.15,
+      11.1,
+      4.7
+    ],
+    "target": [
+      9.5,
+      14.8,
+      4.0
+    ],
+    "refs": [
+      28,
+      30
+    ]
+  },
+  {
+    "id": "guest",
+    "name": "Main guest room",
+    "room": "Guest",
+    "level": "Main",
+    "eye": [
+      4.0,
+      0.6,
+      4.65
+    ],
+    "target": [
+      2.5,
+      3.0,
+      3.85
+    ],
+    "refs": [
+      39,
+      41
+    ]
+  },
+  {
+    "id": "recreation",
+    "name": "Recreation room",
+    "room": "Recreation",
+    "level": "Lower",
+    "eye": [
+      3.6,
+      10.1,
+      1.6
+    ],
+    "target": [
+      2.0,
+      14.0,
+      1.05
+    ],
+    "refs": [
+      63,
+      68
+    ]
+  },
+  {
+    "id": "family",
+    "name": "Family room",
+    "room": "Family",
+    "level": "Lower",
+    "eye": [
+      3.8,
+      0.4,
+      1.65
+    ],
+    "target": [
+      2.25,
+      3,
+      1.0
+    ],
+    "refs": [
+      42,
+      43
+    ]
+  },
+  {
+    "id": "twins",
+    "name": "Twin bedroom",
+    "room": "Twins",
+    "level": "Lower",
+    "eye": [
+      8.15,
+      4.85,
+      1.65
+    ],
+    "target": [
+      6.35,
+      6.7,
+      0.85
+    ],
+    "refs": [
+      51,
+      53
+    ]
+  },
+  {
+    "id": "lowerguest",
+    "name": "Lower guest room",
+    "room": "LowerGuest",
+    "level": "Lower",
+    "eye": [
+      8.1,
+      0.55,
+      1.65
+    ],
+    "target": [
+      6.45,
+      2.85,
+      0.85
+    ],
+    "refs": [
+      54,
+      55
+    ]
+  },
+  {
+    "id": "terrace",
+    "name": "Garden terrace",
+    "room": "Terrace",
+    "level": "Outdoor",
+    "eye": [
+      -4.65,
+      6.7,
+      4.8
+    ],
+    "target": [
+      -2.4,
+      13.7,
+      4.15
+    ],
+    "refs": [
+      84,
+      90
+    ]
+  },
+  {
+    "id": "balcony",
+    "name": "Front balcony",
+    "room": "Balcony",
+    "level": "Outdoor",
+    "eye": [
+      11.2,
+      3.7,
+      4.7
+    ],
+    "target": [
+      9.1,
+      7.4,
+      4.0
+    ],
+    "refs": [
+      76,
+      78
+    ]
+  },
+  {
+    "id": "exterior",
+    "name": "Exterior",
+    "room": null,
+    "level": "Exterior",
+    "eye": [
+      24,
+      -16,
+      11
+    ],
+    "target": [
+      5,
+      8,
+      3.4
+    ],
+    "refs": [
+      6,
+      71
+    ]
+  },
+  {
+    "id": "mainplan",
+    "name": "Main level dollhouse",
+    "room": null,
+    "level": "MainPlan",
+    "eye": [
+      22,
+      -12,
+      29
+    ],
+    "target": [
+      5.8,
+      8,
+      3.1
+    ],
+    "refs": [
+      120
+    ]
+  },
+  {
+    "id": "lowerplan",
+    "name": "Lower level dollhouse",
+    "room": null,
+    "level": "LowerPlan",
+    "eye": [
+      22,
+      -12,
+      26
+    ],
+    "target": [
+      5.8,
+      8,
+      0
+    ],
+    "refs": [
+      120
+    ]
+  }
+]
