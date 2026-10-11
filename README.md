@@ -1,5 +1,7 @@
 # HouseTest — 1172 Millbrae Avenue
 
+**[Open the public house tour](https://edchan-nv.github.io/houseTest/)** · [On-page instructions](https://edchan-nv.github.io/houseTest/#guide)
+
 An editable OpenUSD architectural study and a static, mobile-friendly tour. All views are rendered with NVIDIA OVRTX. Visitors need neither a GPU server nor a VPN.
 
 The model follows the listing floor plan and photographs. It is a stylized reconstruction, not a measured survey or a photoreal replica. Heights, roof junctions, terrain, material response, and furniture shapes are inferred. See `scene/provenance.json`.

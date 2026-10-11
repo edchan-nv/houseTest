@@ -5,7 +5,11 @@
   "validation": {
     "native_stage_and_variants": "passed",
     "desktop_and_mobile_ui": "passed",
-    "touchscreen_swipe": "passed"
+    "touchscreen_swipe": "passed",
+    "corrected_render_batch": "passed: 220 updated frames; 362 total published frames",
+    "public_github_pages": "passed: unauthenticated HTTPS 200, deployed desktop/mobile interaction suite and model download",
+    "on_page_instructions": "verified present on deployed page"
   },
-  "remaining": "Finish corrected render batch and verify GitHub Pages deployment."
+  "remaining": null,
+  "public_url": "https://edchan-nv.github.io/houseTest/"
 }
